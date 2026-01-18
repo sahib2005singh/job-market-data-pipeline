@@ -1,0 +1,871 @@
+Company,Company Score,Job Title,Location,Date,Salary,job family,seniority,specialization,city,state,is_remote,data_not_available,country,date_since_posted,salary_min,salary_max
+viewsoft,4.8,software engineer,"Manassas, VA",8d,68K - 94K,software engineer,not specified,,Manassas,VA,False,False,United States,8,68000.0,94000.0
+workiva,4.3,software support engineer,Remote,2d,61K - 104K,software engineer,not specified,,,,True,False,United States,2,61000.0,104000.0
+"garmin international, inc.",3.9,c# software engineer,"Cary, NC",2d,95K - 118K,software engineer,not specified,c#,Cary,NC,False,False,United States,2,95000.0,118000.0
+snapchat,3.5,"software engineer, fullstack, 1+ years of experience","Los Angeles, CA",2d,97K - 145K,software engineer,junior,,Los Angeles,CA,False,False,United States,2,97000.0,145000.0
+vitesco technologies group ag,3.1,software engineer,"Seguin, TX",2d,85K - 108K,software engineer,not specified,,Seguin,TX,False,False,United States,2,85000.0,108000.0
+spotify,3.9,backend engineer ii,"New York, NY",1d,123K - 175K,software engineer,junior,backend,New York,NY,False,False,United States,1,123000.0,175000.0
+infor,4.0,associate software engineer,"Alpharetta, GA",7d,77K - 94K,software engineer,not specified,,Alpharetta,GA,False,False,United States,7,77000.0,94000.0
+amerisoft corporation,5.0,software developers,"Farmington Hills, MI",30d+,71K - 100K,software engineer,not specified,,Farmington Hills,MI,False,False,United States,30,71000.0,100000.0
+whoop,3.3,"software engineer ii (backend, health)","Boston, MA",10d,94K - 148K,software engineer,junior,backend,Boston,MA,False,False,United States,10,94000.0,148000.0
+pff,4.2,sr. software engineer,Remote,1d,147K - 189K,software engineer,senior,,,,True,False,United States,1,147000.0,189000.0
+salesforce,4.1,mts software engineer,"San Francisco, CA",5d,90K - 113K,software engineer,not specified,,San Francisco,CA,False,False,United States,5,90000.0,113000.0
+"healthmine services, inc.",3.8,software engineer,Remote,1d,54K - 79K,software engineer,not specified,,,,True,False,United States,1,54000.0,79000.0
+honeywell,4.1,software engineer i,"Aguadilla, PR",2d,91K - 135K,software engineer,junior,,Aguadilla,PR,False,False,United States,2,91000.0,135000.0
+legrand av,3.7,software engineer,Minneapolis-Saint Paul,2d,70K - 135K,software engineer,not specified,,Minneapolis-Saint Paul,,False,False,United States,2,70000.0,135000.0
+athenahealth,4.0,"software engineer, athenacollector – rcm rules","Boston, MA",2d,192K - 288K,software engineer,not specified,,Boston,MA,False,False,United States,2,192000.0,288000.0
+amex,4.1,java engineer,"Plantation, FL",6d,100K - 125K,other,not specified,java,Plantation,FL,False,False,United States,6,100000.0,125000.0
+soft labs na,5.0,entry level to senior level software developers,"Northborough, MA",30d+,85K - 127K,software engineer,entry to senior,,Northborough,MA,False,False,United States,30,85000.0,127000.0
+snapchat,3.5,"software engineer, c++","Los Angeles, CA",2d,69K - 109K,software engineer,not specified,c++,Los Angeles,CA,False,False,United States,2,69000.0,109000.0
+hertz,3.2,software engineer,"Seattle, WA",2d,124K - 234K,software engineer,not specified,,Seattle,WA,False,False,United States,2,124000.0,234000.0
+megaport,3.4,frontend software engineer,data not available,2d,84K - 133K,software engineer,not specified,frontend,,,False,True,United States,2,84000.0,133000.0
+"7-eleven, inc.",3.4,software engineer,"Irving, TX",1d,85K - 150K,software engineer,not specified,,Irving,TX,False,False,United States,1,85000.0,150000.0
+"summit technologies, inc.",4.2,software engineer,"Springfield, MA",10d,48K - 89K,software engineer,not specified,,Springfield,MA,False,False,United States,10,48000.0,89000.0
+adobe,2.9,software development engineer,"San Jose, CA",10d,66K - 97K,software engineer,not specified,,San Jose,CA,False,False,United States,10,66000.0,97000.0
+the mitre corporation,4.0,associate software engineer,"Bedford, MA",2d,108K - 199K,software engineer,not specified,,Bedford,MA,False,False,United States,2,108000.0,199000.0
+boston children's hospital,4.1,software engineer - ha (hybrid),"Boston, MA",30d+,102K - 173K,software engineer,not specified,,Boston,MA,False,False,United States,30,102000.0,173000.0
+amex,3.2,engineer - react/javascript,"Sunrise, FL",5d,124K - 142K,other,not specified,"java, javascript",Sunrise,FL,False,False,United States,5,124000.0,142000.0
+ahold delhaize usa,4.0,software engineer - martech,"Carlisle, PA",2d,94K - 133K,software engineer,not specified,,Carlisle,PA,False,False,United States,2,94000.0,133000.0
+artera technologies,4.2,software engineers,"Annapolis Junction, MD",6d,70K - 116K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,6,70000.0,116000.0
+adobe,4.3,software engineer,"Lehi, UT",13d,142K - 178K,software engineer,not specified,,Lehi,UT,False,False,United States,13,142000.0,178000.0
+workiva,3.5,senior software engineer,Remote,3d,87K - 135K,software engineer,senior,,,,True,False,United States,3,87000.0,135000.0
+samsung electronics,3.4,software engineer,"Mountain View, CA",2d,77K - 182K,software engineer,not specified,,Mountain View,CA,False,False,United States,2,77000.0,182000.0
+ipg photonics,3.7,software engineer,"Oxford, MA",4d,101K - 144K,software engineer,not specified,,Oxford,MA,False,False,United States,4,101000.0,144000.0
+crafty,3.3,software engineer,"Chicago, IL",2d,101K - 168K,software engineer,not specified,,Chicago,IL,False,False,United States,2,101000.0,168000.0
+"crunchyroll, llc",4.2,"software engineer iii, payments","San Francisco, CA",13d,74K - 118K,software engineer,senior,,San Francisco,CA,False,False,United States,13,74000.0,118000.0
+lego,3.9,backend software engineer,"Irvine, CA",9d,100K - 200K,software engineer,not specified,backend,Irvine,CA,False,False,United States,9,100000.0,200000.0
+principal fidata not availablecial group,4.1,experienced software engineer,"Des Moines, IA",2d,51K - 78K,software engineer,not specified,,Des Moines,IA,False,False,United States,2,51000.0,78000.0
+intel,3.4,security software engineer,"Phoenix, AZ",22d,71K - 237K,software engineer,not specified,,Phoenix,AZ,False,False,United States,22,71000.0,237000.0
+hasbro,4.4,"software engineer, unreal engine","Renton, WA",18d,87K - 116K,software engineer,not specified,,Renton,WA,False,False,United States,18,87000.0,116000.0
+software engineering institute,4.2,software engineer,"Pittsburgh, PA",30d+,116K - 184K,software engineer,not specified,,Pittsburgh,PA,False,False,United States,30,116000.0,184000.0
+university of dayton,4.4,associate software engineer,"Dayton, OH",2d,75K - 103K,software engineer,not specified,,Dayton,OH,False,False,United States,2,75000.0,103000.0
+mit,3.7,software developer,"Cambridge, MA",17d,155K - 221K,software engineer,not specified,,Cambridge,MA,False,False,United States,17,155000.0,221000.0
+amazon.com services llc,5.0,software dev engineer - computer science,"Seattle, WA",2d,112K - 165K,software engineer,not specified,,Seattle,WA,False,False,United States,2,112000.0,165000.0
+daqscribe solutions,3.9,jr. software engineer,United States,10d,73K - 109K,software engineer,junior,,United States,,False,False,United States,10,73000.0,109000.0
+west virginia university,4.5,software engineer - libraries,"Morgantown, WV",4d,120K - 150K,software engineer,not specified,,Morgantown,WV,False,False,United States,4,120000.0,150000.0
+mckesson,3.9,software engineer,data not available,2d,88K - 124K,software engineer,not specified,,,,False,True,United States,2,88000.0,124000.0
+noblis,2.0,software engineer (all levels),"Chantilly, VA",1d,77K - 87K,software engineer,not specified,,Chantilly,VA,False,False,United States,1,77000.0,87000.0
+eimagine,3.5,software engineer,United States,30d+,65K - 90K,software engineer,not specified,,United States,,False,False,United States,30,65000.0,90000.0
+csl software solutions,4.1,software/database developer,"Burlington, VT",18d,74K - 101K,software engineer,not specified,,Burlington,VT,False,False,United States,18,74000.0,101000.0
+chewy,3.8,software engineer ii,"Bellevue, WA",2d,74K - 111K,software engineer,junior,,Bellevue,WA,False,False,United States,2,74000.0,111000.0
+erpa,4.3,software test engineer,"Dublin, OH",2d,147K - 186K,qa/test engineer,not specified,,Dublin,OH,False,False,United States,2,147000.0,186000.0
+afterpay,4.1,"software engineer, incentive","Seattle, WA",3d,129K - 174K,software engineer,not specified,,Seattle,WA,False,False,United States,3,129000.0,174000.0
+harvard university,5.0,software engineer,"Boston, MA",30d+,89K - 125K,software engineer,not specified,,Boston,MA,False,False,United States,30,89000.0,125000.0
+brooks automation,3.0,software development engineer,"Fremont, CA",4d,165K - 190K,software engineer,not specified,,Fremont,CA,False,False,United States,4,165000.0,190000.0
+dlrdmv,3.5,software engineer,"Dallas, TX",2d,110K - 160K,software engineer,not specified,,Dallas,TX,False,False,United States,2,110000.0,160000.0
+movius interactive corporation,3.3,software engineer- frontend,"Fremont, CA",1d,61K - 110K,software engineer,not specified,frontend,Fremont,CA,False,False,United States,1,61000.0,110000.0
+state street,3.7,software engineer,"Burlington, MA",3d,94K - 154K,software engineer,not specified,,Burlington,MA,False,False,United States,3,94000.0,154000.0
+"sonalysts, inc.",3.8,junior software engineer,"Waterford, CT",1d,75K - 115K,software engineer,junior,,Waterford,CT,False,False,United States,1,75000.0,115000.0
+"preco, llc",3.6,software engineer,"Somerset, WI",4d,62K - 106K,software engineer,not specified,,Somerset,WI,False,False,United States,4,62000.0,106000.0
+healthstream,3.6,software developer,"Nashville, TN",10d,72K - 118K,software engineer,not specified,,Nashville,TN,False,False,United States,10,72000.0,118000.0
+aptiv plc,4.0,software engineer,"Troy, MI",30d+,75K - 118K,software engineer,not specified,,Troy,MI,False,False,United States,30,75000.0,118000.0
+zipongo,3.8,software engineer - epic integrations,Remote,30d+,98K - 137K,software engineer,not specified,,,,True,False,United States,30,98000.0,137000.0
+snowflake,3.7,software engineer - snowpark,"Bellevue, WA",2d,113K - 150K,software engineer,not specified,,Bellevue,WA,False,False,United States,2,113000.0,150000.0
+staffed4u,4.2,software engineer (level 0 - level ii),"Annapolis Junction, MD",10d,110K - 140K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,10,110000.0,140000.0
+honeycomb.io,4.2,midlevel site reliability engineer,United States,10d,141K - 179K,other,mid-level,,United States,,False,False,United States,10,141000.0,179000.0
+topaz labs,3.8,"software engineer, infrastructure","Dallas, TX",8d,77K - 136K,software engineer,not specified,,Dallas,TX,False,False,United States,8,77000.0,136000.0
+weg electric corp,4.3,software engineer - wind,"Barre, VT",6d,80K,software engineer,not specified,,Barre,VT,False,False,United States,6,,
+brown and caldwell,4.3,software engineer,"Atlanta, GA",3d,79K - 126K,software engineer,not specified,,Atlanta,GA,False,False,United States,3,79000.0,126000.0
+vertafore,3.7,software engineer ii,"Melville, NY",2d,87K - 119K,software engineer,junior,,Melville,NY,False,False,United States,2,87000.0,119000.0
+"aerodyne industries, llc",3.1,simulation software engineer (adv00095i),"Kennedy Sp Ct, FL",1d,72K - 94K,software engineer,not specified,,Kennedy Sp Ct,FL,False,False,United States,1,72000.0,94000.0
+kairos inc,3.5,software engineer,"Dahlgren, VA",16d,6K - 7K,software engineer,not specified,,Dahlgren,VA,False,False,United States,16,6000.0,7000.0
+topaz labs,3.7,senior software engineer - photo ai,"Dallas, TX",30d+,68K - 106K,software engineer,senior,,Dallas,TX,False,False,United States,30,68000.0,106000.0
+s3,3.8,software engineer- 826245,"Stennis Space Center, MS",20d,56K - 88K,software engineer,not specified,,Stennis Space Center,MS,False,False,United States,20,56000.0,88000.0
+"j. paul getty trust, the",4.1,software engineer sr,"Los Angeles, CA",30d+,72K - 113K,software engineer,senior,,Los Angeles,CA,False,False,United States,30,72000.0,113000.0
+topaz labs,3.4,software engineer - ml performance / hpc,"Dallas, TX",30d+,90K - 119K,software engineer,not specified,,Dallas,TX,False,False,United States,30,90000.0,119000.0
+rover.com,3.2,"senior software engineer, orders team","Seattle, WA",25d,101K - 135K,software engineer,senior,,Seattle,WA,False,False,United States,25,101000.0,135000.0
+university of oregon,3.8,research software engineer,"Eugene, OR",2d,155K - 180K,software engineer,not specified,,Eugene,OR,False,False,United States,2,155000.0,180000.0
+dōterra international,4.0,software engineer ii,Utah,12d,85K - 114K,software engineer,junior,,Utah,,False,False,United States,12,85000.0,114000.0
+ahu technologies,4.6,software engineer,"Newark, DE",12d,130K - 160K,software engineer,not specified,,Newark,DE,False,False,United States,12,130000.0,160000.0
+alstom,3.4,software engineer,"Pittsburgh, PA",2d,160K - 250K,software engineer,not specified,,Pittsburgh,PA,False,False,United States,2,160000.0,250000.0
+jack henry & associates,2.9,software release engineer,United States,8d,100K,software engineer,not specified,,United States,,False,False,United States,8,,
+ispa technology,3.0,junior software systems engineer,"Washington, DC",23d,120K - 150K,software engineer,junior,,Washington,DC,False,False,United States,23,120000.0,150000.0
+"universal health services, inc. - corporate office",3.4,associate software engineer - data analytics,"King of Prussia, PA",30d+,96K - 146K,software engineer,not specified,,King of Prussia,PA,False,False,United States,30,96000.0,146000.0
+relias,3.8,associate software engineer,"Morrisville, NC",4d,107K - 144K,software engineer,not specified,,Morrisville,NC,False,False,United States,4,107000.0,144000.0
+tickrs clearing,3.1,software engineer,"Irvine, CA",2d,138K - 189K,software engineer,not specified,,Irvine,CA,False,False,United States,2,138000.0,189000.0
+ctc group,4.8,software engineer,"Fort Meade, MD",30d+,78K - 118K,software engineer,not specified,,Fort Meade,MD,False,False,United States,30,78000.0,118000.0
+gotab inc,3.5,jr. deployment engineer,"Arlington, VA",10d,113K - 139K,other,junior,,Arlington,VA,False,False,United States,10,113000.0,139000.0
+ilogic inc,3.5,software developers,Township of Hamilton,30d+,80.00 Per Hour,software engineer,not specified,,Township of Hamilton,,False,False,United States,30,80000.0,0.0
+csx,3.8,software engineer ii - service now,"Jacksonville, FL",23d,70K - 109K,software engineer,junior,,Jacksonville,FL,False,False,United States,23,70000.0,109000.0
+synergy ecp,4.4,junior software engineer,"Fort Meade, MD",2d,73K - 117K,software engineer,junior,,Fort Meade,MD,False,False,United States,2,73000.0,117000.0
+m&t bank,5.0,software engineer iii,"Wilmington, DE",30d+,62K - 107K,software engineer,senior,,Wilmington,DE,False,False,United States,30,62000.0,107000.0
+cardlytics,5.0,software engineer iii,"Menlo Park, CA",18d,124K - 169K,software engineer,senior,,Menlo Park,CA,False,False,United States,18,124000.0,169000.0
+"stefanini, inc",3.8,aws cloud engineer,"Richmond, VA",1d,96K - 117K,cloud engineer,not specified,cloud,Richmond,VA,False,False,United States,1,96000.0,117000.0
+innovative systems,3.8,c software engineer,"Pittsburgh, PA",9d,84K - 140K,software engineer,not specified,,Pittsburgh,PA,False,False,United States,9,84000.0,140000.0
+parabola,3.8,"software engineer, full stack",United States,8d,66K - 94K,software engineer,not specified,fullstack,United States,,False,False,United States,8,66000.0,94000.0
+vibrint,3.5,software engineer i (python developer),United States,11d,70K - 120K,software engineer,junior,python,United States,,False,False,United States,11,70000.0,120000.0
+millennium management,4.2,front end engineer,United States,4d,78K - 126K,other,not specified,frontend,United States,,False,False,United States,4,78000.0,126000.0
+sagitec,3.9,software engineer,"Saint Paul, MN",2d,165K - 209K,software engineer,not specified,,Saint Paul,MN,False,False,United States,2,165000.0,209000.0
+careerus soultions,4.0,devops engineer,data not available,2d,90K - 125K,devops engineer,not specified,devops,,,False,True,United States,2,90000.0,125000.0
+innovien solutions,3.3,sr. software engineer,"Atlanta, GA",6d,116K - 150K,software engineer,senior,,Atlanta,GA,False,False,United States,6,116000.0,150000.0
+ocean power technologies inc,3.8,software engineer,United States,2d,107K - 192K,software engineer,not specified,,United States,,False,False,United States,2,107000.0,192000.0
+riverside research institute,4.8,software engineer,"Fairborn, OH",3d,79K - 120K,software engineer,not specified,,Fairborn,OH,False,False,United States,3,79000.0,120000.0
+staffed4u,5.0,java software engineer,"Annapolis Junction, MD",30d+,94K - 153K,software engineer,not specified,java,Annapolis Junction,MD,False,False,United States,30,94000.0,153000.0
+uber freight,5.0,software engineer ii,"Chicago, IL",1d,84K - 129K,software engineer,junior,,Chicago,IL,False,False,United States,1,84000.0,129000.0
+diverse career solutions,3.7,software engineer,data not available,2d,48K - 81K,software engineer,not specified,,,,False,True,United States,2,48000.0,81000.0
+snowflake,4.1,software engineer - database engineering,"Bellevue, WA",4d,82K - 129K,software engineer,not specified,,Bellevue,WA,False,False,United States,4,82000.0,129000.0
+likewize,4.0,jr devops engineer,"Dallas, TX",2d,61K - 104K,devops engineer,junior,devops,Dallas,TX,False,False,United States,2,61000.0,104000.0
+massmutual ascend,4.0,senior software engineer ii,"Cincinnati, OH",19d,182K - 244K,software engineer,senior,,Cincinnati,OH,False,False,United States,19,182000.0,244000.0
+washington dc government,4.7,react developer,Remote,2d,96K - 116K,other,not specified,,,,True,False,United States,2,96000.0,116000.0
+anavation,3.7,software developer,"Quantico, VA",3d,68K - 136K,software engineer,not specified,,Quantico,VA,False,False,United States,3,68000.0,136000.0
+3r info,3.9,software engineer,"Canton, MI",30d+,93K - 132K,software engineer,not specified,,Canton,MI,False,False,United States,30,93000.0,132000.0
+strategic mission elements,3.5,software developer (typescript/javascript),"Chantilly, VA",26d,77K - 125K,software engineer,not specified,"java, javascript",Chantilly,VA,False,False,United States,26,77000.0,125000.0
+"ipsecure, inc.",3.9,senior software engineer,"Patrick AFB, FL",4d,52K - 200K,software engineer,senior,,Patrick AFB,FL,False,False,United States,4,52000.0,200000.0
+relx,3.2,software engineer ii,Georgia,2d,81K - 118K,software engineer,junior,,Georgia,,False,False,United States,2,81000.0,118000.0
+solventum,3.6,software engineer - front-end (solventum),"Maplewood, MN",3d,128K - 192K,software engineer,not specified,,Maplewood,MN,False,False,United States,3,128000.0,192000.0
+focus technology solutions inc,3.0,cloud engineer,"Boston, MA",4d,150K - 225K,cloud engineer,not specified,cloud,Boston,MA,False,False,United States,4,150000.0,225000.0
+two six technologies,4.1,software engineer,"Warrenton, VA",17d,50.00 Per Hour,software engineer,not specified,,Warrenton,VA,False,False,United States,17,50000.0,0.0
+"adams, inc.",3.2,software engineer,Tennessee,4d,85K - 120K,software engineer,not specified,,Tennessee,,False,False,United States,4,85000.0,120000.0
+cps insurance services,3.4,junior software developer,"Phoenix, AZ",1d,192K - 245K,software engineer,junior,,Phoenix,AZ,False,False,United States,1,192000.0,245000.0
+cephas,3.1,software engineer,"Melbourne, FL",4d,114K - 182K,software engineer,not specified,,Melbourne,FL,False,False,United States,4,114000.0,182000.0
+chubb,3.4,software engineer - java springboot (dt),"Whitehouse Station, NJ",3d,102K - 134K,software engineer,not specified,java,Whitehouse Station,NJ,False,False,United States,3,102000.0,134000.0
+uber freight,3.6,software engineer iii - mobile (multiple openings),"San Francisco, CA",9d,101K - 160K,software engineer,senior,,San Francisco,CA,False,False,United States,9,101000.0,160000.0
+consumers energy,4.8,assoc software engineer,"Jackson, MI",6d,90K - 124K,software engineer,not specified,,Jackson,MI,False,False,United States,6,90000.0,124000.0
+u.s. bank national association,3.4,senior software engineer,"Hopkins, MN",1d,88K - 128K,software engineer,senior,,Hopkins,MN,False,False,United States,1,88000.0,128000.0
+medimpact healthcare systems,3.5,software engineer iv,"San Diego, CA",30d+,83K - 131K,software engineer,senior,,San Diego,CA,False,False,United States,30,83000.0,131000.0
+imc fidata not availablecial markets,3.1,graduate software engineer,"Chicago, IL",17d,70K - 90K,software engineer,not specified,,Chicago,IL,False,False,United States,17,70000.0,90000.0
+truveta,4.0,software engineer - normalization,"Seattle, WA",3d,164K - 182K,software engineer,not specified,,Seattle,WA,False,False,United States,3,164000.0,182000.0
+"signature science, llc",4.2,software engineer,"Egg Harbor Township, NJ",23d,73K - 92K,software engineer,not specified,,Egg Harbor Township,NJ,False,False,United States,23,73000.0,92000.0
+jyg innovations,4.1,web developers,"Frederick, MD",2d,108K - 200K,other,not specified,,Frederick,MD,False,False,United States,2,108000.0,200000.0
+vensit,3.5,software engineer,"Sayreville, NJ",30d+,123K - 160K,software engineer,not specified,,Sayreville,NJ,False,False,United States,30,123000.0,160000.0
+independent software,3.9,software engineer - apprentice,United States,17d,112K - 141K,software engineer,not specified,,United States,,False,False,United States,17,112000.0,141000.0
+"visionist, inc.",3.5,junior software engineer,"Fort Meade, MD",10d,101K - 160K,software engineer,junior,,Fort Meade,MD,False,False,United States,10,101000.0,160000.0
+ncr,3.1,software dev ops engineer ii,Indiana,3d,69K - 143K,software engineer,junior,,Indiana,,False,False,United States,3,69000.0,143000.0
+clearwater analytics,3.6,senior software development engineer,"Seattle, WA",9d,120K - 140K,software engineer,senior,,Seattle,WA,False,False,United States,9,120000.0,140000.0
+"technical intelligence solutions, llc",3.0,software engineer,"Crystal City, VA",2d,68K - 120K,software engineer,not specified,,Crystal City,VA,False,False,United States,2,68000.0,120000.0
+cvs health,3.8,associate software development engineer - colleague experience,"Woonsocket, RI",29d,104K - 136K,software engineer,not specified,,Woonsocket,RI,False,False,United States,29,104000.0,136000.0
+"delta defense, llc",3.9,"associate engineer, analytics","West Bend, WI",2d,82K - 115K,other,not specified,,West Bend,WI,False,False,United States,2,82000.0,115000.0
+koalafi,3.2,backend software engineer,"Richmond, VA",13d,161K - 239K,software engineer,not specified,backend,Richmond,VA,False,False,United States,13,161000.0,239000.0
+intel,4.1,ai research engineer,Arizona,17d,107K - 150K,other,not specified,,Arizona,,False,False,United States,17,107000.0,150000.0
+no.inc,5.0,software engineer,"Baltimore, MD",5d,91K - 122K,software engineer,not specified,,Baltimore,MD,False,False,United States,5,91000.0,122000.0
+f5,3.5,software engineer iii,"Seattle, WA",30d+,103K - 144K,software engineer,senior,,Seattle,WA,False,False,United States,30,103000.0,144000.0
+arcadia science,3.3,"software engineer, product","Berkeley, CA",6d,80K - 100K,software engineer,not specified,,Berkeley,CA,False,False,United States,6,80000.0,100000.0
+artint knowledge tech,3.5,firmware (linux) dev i,Remote,5d,100K - 128K,other,junior,,,,True,False,United States,5,100000.0,128000.0
+castellum inc,4.1,software engineer,"Patuxent River, MD",30d+,90K - 180K,software engineer,not specified,,Patuxent River,MD,False,False,United States,30,90000.0,180000.0
+instacart,3.7,"senior software engineer, core experiences",Remote,12d,110K - 130K,software engineer,senior,,,,True,False,United States,12,110000.0,130000.0
+walgreens,4.4,software engineer (rxr),"Deerfield, IL",1d,76K - 121K,software engineer,not specified,,Deerfield,IL,False,False,United States,1,76000.0,121000.0
+duquesne light,3.6,software engineer iii,"Pittsburgh, PA",16d,88K - 111K,software engineer,senior,,Pittsburgh,PA,False,False,United States,16,88000.0,111000.0
+super micro computer,3.0,software engineer,"San Jose, CA",30d+,73K - 116K,software engineer,not specified,,San Jose,CA,False,False,United States,30,73000.0,116000.0
+ucare,4.4,software engineer senior â€“ azure,"Minneapolis, MN",19d,182K - 273K,software engineer,senior,,Minneapolis,MN,False,False,United States,19,182000.0,273000.0
+cybercore technologies,2.6,software engineer 0,"Annapolis Junction, MD",9d,85K - 113K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,9,85000.0,113000.0
+coinflip,3.5,aws devops engineer,"Chicago, IL",25d,65K - 95K,devops engineer,not specified,devops,Chicago,IL,False,False,United States,25,65000.0,95000.0
+bi labs,4.1,software developers (021),"Plainsboro, NJ",30d+,109K - 168K,software engineer,not specified,,Plainsboro,NJ,False,False,United States,30,109000.0,168000.0
+sahbi systems,4.1,software engineers,Alabama,18d,80K - 99K,software engineer,not specified,,Alabama,,False,False,United States,18,80000.0,99000.0
+cultura technologies inc,4.4,sr software engineer,Remote,1d,104K - 153K,software engineer,senior,,,,True,False,United States,1,104000.0,153000.0
+excelacom,4.0,devops engineer,"Denver, CO",3d,78K - 129K,devops engineer,not specified,devops,Denver,CO,False,False,United States,3,78000.0,129000.0
+cityblock health,4.1,senior software engineer,New York State,9d,82K - 118K,software engineer,senior,,New York State,,False,False,United States,9,82000.0,118000.0
+rocket software,4.3,machine learning software engineer,Massachusetts,3d,138K - 294K,software engineer,not specified,,Massachusetts,,False,False,United States,3,138000.0,294000.0
+huntington ingalls industries inc.,3.3,software engineer (hybrid) - 19943,"Columbia, MD",11d,136K - 187K,software engineer,not specified,,Columbia,MD,False,False,United States,11,136000.0,187000.0
+intuitive machines llc,3.8,research software engineer,"Houston, TX",10d,295K - 440K,software engineer,not specified,,Houston,TX,False,False,United States,10,295000.0,440000.0
+equifax,4.4,software engineer - career,"Alpharetta, GA",3d,95K - 146K,software engineer,not specified,,Alpharetta,GA,False,False,United States,3,95000.0,146000.0
+super micro computer,4.0,software engineer,"San Jose, CA",19d,117K - 161K,software engineer,not specified,,San Jose,CA,False,False,United States,19,117000.0,161000.0
+akamai,4.0,software engineer - remote,United States,9d,173K,software engineer,not specified,,United States,,False,False,United States,9,,
+mailprotector,4.6,software engineer,Remote,2d,50.00 Per Hour,software engineer,not specified,,,,True,False,United States,2,50000.0,0.0
+blockit now inc,3.8,elixir software engineer,"McKinney, TX",5d,175K - 250K,software engineer,not specified,,McKinney,TX,False,False,United States,5,175000.0,250000.0
+tenica and associates llc,4.1,software systems engineer ts/sci ci poly,"Las Cruces, NM",5d,55K - 140K,software engineer,not specified,,Las Cruces,NM,False,False,United States,5,55000.0,140000.0
+arch capital group ltd.,3.9,software engineer ii,"Greensboro, NC",5d,126K - 234K,software engineer,junior,,Greensboro,NC,False,False,United States,5,126000.0,234000.0
+lynker corporation,3.9,software engineer,"Stennis Space Center, MS",30d+,78K - 129K,software engineer,not specified,,Stennis Space Center,MS,False,False,United States,30,78000.0,129000.0
+youtube,3.2,"senior software engineer, full stack, youtube","New York, NY",1d,75K - 102K,software engineer,senior,fullstack,New York,NY,False,False,United States,1,75000.0,102000.0
+perforce software,4.2,senior software engineer - us,Remote,2d,115K - 150K,software engineer,senior,,,,True,False,United States,2,115000.0,150000.0
+world vision usa,3.8,sr. software engineer,United States,16d,115K - 160K,software engineer,senior,,United States,,False,False,United States,16,115000.0,160000.0
+featurespace,5.0,software engineer,"Atlanta, GA",30d+,82K - 92K,software engineer,not specified,,Atlanta,GA,False,False,United States,30,82000.0,92000.0
+bigbear.ai,3.7,software engineer,"Columbia, MD",9d,120K - 130K,software engineer,not specified,,Columbia,MD,False,False,United States,9,120000.0,130000.0
+"benistar administrative services, inc.",3.9,aws cloud engineer,"Avon, CT",2d,86K - 131K,cloud engineer,not specified,cloud,Avon,CT,False,False,United States,2,86000.0,131000.0
+state of colorado job opportunities,4.7,cloud engineer (remote from anywhere in colorado),Colorado,2d,92K - 133K,cloud engineer,not specified,cloud,Colorado,,False,False,United States,2,92000.0,133000.0
+intellisource colorado llc,3.1,senior software engineer - enterprise people technology,"Bentonville, AR",3d,112K - 165K,software engineer,senior,,Bentonville,AR,False,False,United States,3,112000.0,165000.0
+"first command fidata not availablecial services, inc.",4.2,software engineer,data not available,2d,50.00 - 70.00 Per Hour,software engineer,not specified,,,,False,True,United States,2,,
+nbcuniversal,4.4,post software engineer,"Englewood Cliffs, NJ",3d,145K - 162K,software engineer,not specified,,Englewood Cliffs,NJ,False,False,United States,3,145000.0,162000.0
+artera technologies,4.4,cloud software engineers,United States,6d,147K - 189K,software engineer,not specified,cloud,United States,,False,False,United States,6,147000.0,189000.0
+thompson gray inc.,4.7,engineer (software),Redstone Arsenal,30d+,72K - 159K,software engineer,not specified,,Redstone Arsenal,,False,False,United States,30,72000.0,159000.0
+origence,4.0,software engineer - cudl modernization,Remote,1d,79K - 111K,software engineer,not specified,,,,True,False,United States,1,79000.0,111000.0
+medius,3.6,software engineer,"Jacksonville, FL",30d+,115K - 161K,software engineer,not specified,,Jacksonville,FL,False,False,United States,30,115000.0,161000.0
+f5,3.8,principal software engineer,"Seattle, WA",4d,82K - 102K,software engineer,leadership,,Seattle,WA,False,False,United States,4,82000.0,102000.0
+cnh industrial,3.8,software engineer ii,Remote,2d,86K - 136K,software engineer,junior,,,,True,False,United States,2,86000.0,136000.0
+fusion plus solutions inc.,3.7,software engineers,"Edison, NJ",30d+,170K - 200K,software engineer,not specified,,Edison,NJ,False,False,United States,30,170000.0,200000.0
+university of florida,3.2,software engineer i/ii,Florida,16d,90K - 116K,software engineer,junior,,Florida,,False,False,United States,16,90000.0,116000.0
+northwestern mutual,3.8,software engineer,"Franklin, WI",4d,114K - 152K,software engineer,not specified,,Franklin,WI,False,False,United States,4,114000.0,152000.0
+vibrint,3.8,software engineer i,"Annapolis Junction, MD",30d+,80K - 120K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,30,80000.0,120000.0
+hubbell incorporated,3.4,sr assoc software engineer,"Avon, CT",1d,95K - 126K,software engineer,senior,,Avon,CT,False,False,United States,1,95000.0,126000.0
+valkyrie enterprises,3.8,junior computer/software engineer (job id: 3433),"Huntsville, AL",23d,138K - 178K,software engineer,junior,,Huntsville,AL,False,False,United States,23,138000.0,178000.0
+two six technologies,4.5,software engineer,"Herndon, VA",30d+,61K - 147K,software engineer,not specified,,Herndon,VA,False,False,United States,30,61000.0,147000.0
+decision six,3.6,software engineer,United States,5d,124K - 211K,software engineer,not specified,,United States,,False,False,United States,5,124000.0,211000.0
+microsoft,4.4,software engineer,"Redmond, WA",4d,90K - 117K,software engineer,not specified,,Redmond,WA,False,False,United States,4,90000.0,117000.0
+ateliere creative technologies,4.1,senior devops engineer - los angeles,"Los Angeles, CA",2d,98K - 209K,devops engineer,senior,devops,Los Angeles,CA,False,False,United States,2,98000.0,209000.0
+openai,3.1,"software engineer, hardware health","San Francisco, CA",5d,78K - 121K,software engineer,not specified,,San Francisco,CA,False,False,United States,5,78000.0,121000.0
+two six technologies,2.7,software engineer,"Tysons Corner, VA",17d,100K - 165K,software engineer,not specified,,Tysons Corner,VA,False,False,United States,17,100000.0,165000.0
+splunk,3.5,software engineer (us remote available),Remote,3d,125K,software engineer,not specified,,,,True,False,United States,3,,
+sasken,4.1,software engineer,United States,6d,71K - 112K,software engineer,not specified,,United States,,False,False,United States,6,71000.0,112000.0
+realmone,3.8,software engineer,United States,5d,95K - 152K,software engineer,not specified,,United States,,False,False,United States,5,95000.0,152000.0
+the wolf works llc,4.4,node js,"Austin, TX",2d,86K - 105K,other,not specified,,Austin,TX,False,False,United States,2,86000.0,105000.0
+millennium management,3.8,software engineer - c#,"New York, NY",30d+,135K - 216K,software engineer,not specified,c#,New York,NY,False,False,United States,30,135000.0,216000.0
+"aflac, incorporated",4.0,software engineer iii,Remote,1d,93K - 112K,software engineer,senior,,,,True,False,United States,1,93000.0,112000.0
+ringcentral,3.9,software engineer,"Belmont, CA",24d,104K - 161K,software engineer,not specified,,Belmont,CA,False,False,United States,24,104000.0,161000.0
+dallas area rapid transit,3.7,software engineer-bi,"Dallas, TX",30d+,77K - 121K,software engineer,not specified,,Dallas,TX,False,False,United States,30,77000.0,121000.0
+w r systems,3.5,software engineer,"Dahlgren, VA",4d,95K - 134K,software engineer,not specified,,Dahlgren,VA,False,False,United States,4,95000.0,134000.0
+"carecraft, inc",3.7,software engineer,"Carlsbad, CA",10d,125K - 178K,software engineer,not specified,,Carlsbad,CA,False,False,United States,10,125000.0,178000.0
+specialt tech,3.1,cloud engineer manager,Remote,25d,76K - 108K,cloud engineer,leadership,cloud,,,True,False,United States,25,76000.0,108000.0
+"hottinger, bruel & kjaer",4.5,software engineer,"Pompano Beach, FL",30d+,77K - 116K,software engineer,not specified,,Pompano Beach,FL,False,False,United States,30,77000.0,116000.0
+"cps solutions, llc",4.1,devops engineer,United States,3d,82K - 106K,devops engineer,not specified,devops,United States,,False,False,United States,3,82000.0,106000.0
+northwestern memorial healthcare,4.2,software developers,"Chicago, IL",10d,86K - 120K,software engineer,not specified,,Chicago,IL,False,False,United States,10,86000.0,120000.0
+the swift group,4.1,software engineer,"Columbia, MD",30d+,96K - 146K,software engineer,not specified,,Columbia,MD,False,False,United States,30,96000.0,146000.0
+asus computer international,4.9,software engineer - ai,"Hillsboro, OR",30d+,96K - 137K,software engineer,not specified,,Hillsboro,OR,False,False,United States,30,96000.0,137000.0
+persistent systems,4.6,workday software engineer,United States,9d,141K - 239K,software engineer,not specified,,United States,,False,False,United States,9,141000.0,239000.0
+cedar inc,3.3,software engineer ii (communications platform),"New York, NY",20d,108K - 140K,software engineer,junior,,New York,NY,False,False,United States,20,108000.0,140000.0
+salesforce,3.1,software engineering mts,"San Francisco, CA",3d,40.00 - 55.00 Per Hour,software engineer,not specified,,San Francisco,CA,False,False,United States,3,,
+cvs health,2.4,"software developer - c#, .net","Scottsdale, AZ",3d,108K - 195K,software engineer,not specified,c#,Scottsdale,AZ,False,False,United States,3,108000.0,195000.0
+nautilus hyosung america inc,3.1,software engineer,"Irving, TX",3d,111K - 184K,software engineer,not specified,,Irving,TX,False,False,United States,3,111000.0,184000.0
+blue origin,4.4,embedded flight software engineer – new glenn,"Seattle, WA",2d,189K - 284K,software engineer,not specified,,Seattle,WA,False,False,United States,2,189000.0,284000.0
+west bend insurance company,4.9,software engineer,"West Bend, WI",1d,79K - 109K,software engineer,not specified,,West Bend,WI,False,False,United States,1,79000.0,109000.0
+jbt corporation,4.1,software engineer c#,"Chalfont, PA",15d,94K - 129K,software engineer,not specified,c#,Chalfont,PA,False,False,United States,15,94000.0,129000.0
+cedar inc,3.1,software engineer iii (payment workflows),"New York, NY",19d,56K - 83K,software engineer,senior,,New York,NY,False,False,United States,19,56000.0,83000.0
+allied business consulting,3.8,software developers,"Somerset, NJ",13d,202K - 290K,software engineer,not specified,,Somerset,NJ,False,False,United States,13,202000.0,290000.0
+"chick-fil-a, inc.",2.3,senior software engineer - backend development,"Atlanta, GA",11d,70K - 103K,software engineer,senior,backend,Atlanta,GA,False,False,United States,11,70000.0,103000.0
+"us amr-jones lang lasalle americas, inc.",3.8,software engineering,"San Francisco, CA",2d,86K - 121K,software engineer,not specified,,San Francisco,CA,False,False,United States,2,86000.0,121000.0
+smart ims,3.8,software engineer,"Austin, TX",30d+,74K - 107K,software engineer,not specified,,Austin,TX,False,False,United States,30,74000.0,107000.0
+clearwater analytics,4.7,software development engineer,"San Jose, CA",30d+,81K - 113K,software engineer,not specified,,San Jose,CA,False,False,United States,30,81000.0,113000.0
+paypal,3.9,"software engineer, backend","San Jose, CA",2d,72K - 119K,software engineer,not specified,backend,San Jose,CA,False,False,United States,2,72000.0,119000.0
+walgreens,4.6,principal software engineer,"Bellevue, WA",1d,90K - 125K,software engineer,leadership,,Bellevue,WA,False,False,United States,1,90000.0,125000.0
+the swift group,3.7,software engineer,"McLean, VA",18d,80K - 150K,software engineer,not specified,,McLean,VA,False,False,United States,18,80000.0,150000.0
+hewlett packard,3.5,software engineer,"Spring, TX",10d,72K - 144K,software engineer,not specified,,Spring,TX,False,False,United States,10,72000.0,144000.0
+microsoft,4.0,software engineer,"Redmond, WA",5d,70K - 95K,software engineer,not specified,,Redmond,WA,False,False,United States,5,70000.0,95000.0
+new river systems corporation,4.4,sharepoint software systems engineer,Remote,17d,100K - 140K,software engineer,not specified,,,,True,False,United States,17,100000.0,140000.0
+"modern technology solutions, inc.",4.6,software engineer - associate,"Chantilly, VA",11d,124K - 234K,software engineer,not specified,,Chantilly,VA,False,False,United States,11,124000.0,234000.0
+pqsecure technologies,3.7,hardware/software engineer,"Boca Raton, FL",30d+,88K - 119K,software engineer,not specified,,Boca Raton,FL,False,False,United States,30,88000.0,119000.0
+ispa technology,4.4,mid to senior level software engineer,"San Diego, CA",19d,123K - 198K,software engineer,senior,,San Diego,CA,False,False,United States,19,123000.0,198000.0
+onmed,5.0,site reliability engineer,"Tampa, FL",23d,158K - 176K,other,not specified,,Tampa,FL,False,False,United States,23,158000.0,176000.0
+grote industries,4.2,networks - embedded software engineer,"Madison, IN",3d,160K - 180K,software engineer,not specified,,Madison,IN,False,False,United States,3,160000.0,180000.0
+walgreens,3.9,devops engineer,"Deerfield, IL",24h,87K - 119K,devops engineer,not specified,devops,Deerfield,IL,False,False,United States,24,87000.0,119000.0
+cloud software group,4.5,software engineer,"Naperville, IL",12d,97K - 145K,software engineer,not specified,,Naperville,IL,False,False,United States,12,97000.0,145000.0
+walgreens,4.6,"senior software engineer (full-stack, java, javascript)","Bellevue, WA",30d+,89K - 139K,software engineer,senior,"java, javascript",Bellevue,WA,False,False,United States,30,89000.0,139000.0
+nationmind infoservices pvt ltd,3.6,software engineer,Florida,16d,53K - 103K,software engineer,not specified,,Florida,,False,False,United States,16,53000.0,103000.0
+arrowstreet capital,3.4,fullstack software engineer,"Boston, MA",30d+,129K - 228K,software engineer,not specified,,Boston,MA,False,False,United States,30,129000.0,228000.0
+favorited,4.8,full stack engineer,"Santa Monica, CA",2d,150K - 250K,other,not specified,fullstack,Santa Monica,CA,False,False,United States,2,150000.0,250000.0
+strategic thermal labs,2.5,software engineer,"Georgetown, TX",11d,116K - 163K,software engineer,not specified,,Georgetown,TX,False,False,United States,11,116000.0,163000.0
+idolsoft,3.3,software developer,"Irving, TX",30d+,104K - 127K,software engineer,not specified,,Irving,TX,False,False,United States,30,104000.0,127000.0
+bi labs,3.1,software developers (834),"Plainsboro, NJ",30d+,53K - 96K,software engineer,not specified,,Plainsboro,NJ,False,False,United States,30,53000.0,96000.0
+verily,3.5,"software engineer, enterprise frontend","San Bruno, CA",30d+,60K - 90K,software engineer,not specified,frontend,San Bruno,CA,False,False,United States,30,60000.0,90000.0
+colonial pipeline company,4.4,software engineer,"Alpharetta, GA",30d+,143K - 191K,software engineer,not specified,,Alpharetta,GA,False,False,United States,30,143000.0,191000.0
+leader communications inc,4.2,software engineer,"Hill AFB, UT",26d,142K - 162K,software engineer,not specified,,Hill AFB,UT,False,False,United States,26,142000.0,162000.0
+ucare,3.3,software engineer sr. â€” net,"Minneapolis, MN",12d,89K - 129K,software engineer,senior,,Minneapolis,MN,False,False,United States,12,89000.0,129000.0
+cliftonlarsonallen,4.8,devops engineer,"Minneapolis, MN",11d,94K - 156K,devops engineer,not specified,devops,Minneapolis,MN,False,False,United States,11,94000.0,156000.0
+two six technologies,3.9,software engineer associate manager - national general,Remote,4d,80K - 148K,software engineer,leadership,,,,True,False,United States,4,80000.0,148000.0
+bae systems,3.9,software engineer,"Herndon, VA",30d+,62K - 105K,software engineer,not specified,,Herndon,VA,False,False,United States,30,62000.0,105000.0
+nodal exchange,3.5,software engineer (expert),"Herndon, VA",30d+,81K - 164K,software engineer,not specified,,Herndon,VA,False,False,United States,30,81000.0,164000.0
+gomez & companies,3.5,software engineer (mid-level),United States,9d,98K - 145K,software engineer,mid-level,,United States,,False,False,United States,9,98000.0,145000.0
+"t-mobile usa, inc.",3.7,full stack software engineer & api developer,"Canoga Park, CA",1d,157K - 207K,software engineer,not specified,fullstack,Canoga Park,CA,False,False,United States,1,157000.0,207000.0
+m&t bank,3.5,sr software engineer - data,"Bellevue, WA",3d,133K - 143K,software engineer,senior,,Bellevue,WA,False,False,United States,3,133000.0,143000.0
+pressco technology,4.5,"api services - senior software engineer - java, spring boot","Buffalo, NY",10d,79K - 159K,software engineer,senior,java,Buffalo,NY,False,False,United States,10,79000.0,159000.0
+youtube,3.8,software integration & test engineer,"Solon, OH",3d,132K - 190K,qa/test engineer,not specified,,Solon,OH,False,False,United States,3,132000.0,190000.0
+ispa technology,4.2,"staff software engineer, machine learning, youtube music","New York, NY",1d,90K - 143K,software engineer,not specified,,New York,NY,False,False,United States,1,90000.0,143000.0
+scentsy inc,4.0,mid-level software systems engineer,United States,23d,101K - 187K,software engineer,mid-level,,United States,,False,False,United States,23,101000.0,187000.0
+stratascorp,3.5,software engineer,"Meridian, ID",5d,58K - 103K,software engineer,not specified,,Meridian,ID,False,False,United States,5,58000.0,103000.0
+3r info,3.8,software engineer,"Arlington, VA",4d,125K - 200K,software engineer,not specified,,Arlington,VA,False,False,United States,4,125000.0,200000.0
+toyota research institute,4.1,software engineer in testing,"Canton, MI",30d+,168K,software engineer,not specified,,Canton,MI,False,False,United States,30,,
+gelber group,5.0,senior software engineer,"Los Altos, CA",9d,110K - 143K,software engineer,senior,,Los Altos,CA,False,False,United States,9,110000.0,143000.0
+"peopletec, inc.",3.5,software engineer- executions team,"Chicago, IL",20d,80.00 - 85.00 Per Hour,software engineer,not specified,,Chicago,IL,False,False,United States,20,,
+flysoft,5.0,software engineer,data not available,2d,78K - 112K,software engineer,not specified,,,,False,True,United States,2,78000.0,112000.0
+ingrain systems inc.,3.9,software engineer,"Jamesburg, NJ",20d,95K - 125K,software engineer,not specified,,Jamesburg,NJ,False,False,United States,20,95000.0,125000.0
+carrier,4.7,software developers,"Sherman, TX",30d+,92K - 158K,software engineer,not specified,,Sherman,TX,False,False,United States,30,92000.0,158000.0
+ncr,4.2,software engineer,"Charlotte, NC",3d,147K - 180K,software engineer,not specified,,Charlotte,NC,False,False,United States,3,147000.0,180000.0
+anavation,3.5,software engineer iv - java fullstack,Indiana,30d+,75K - 102K,software engineer,senior,java,Indiana,,False,False,United States,30,75000.0,102000.0
+soar technology,3.5,mid-level software engineer – hybrid!,"Quantico, VA",30d+,60K - 112K,software engineer,mid-level,,Quantico,VA,False,False,United States,30,60000.0,112000.0
+red ventures,3.1,autonomy software engineer,"Ann Arbor, MI",2d,108K - 151K,software engineer,not specified,,Ann Arbor,MI,False,False,United States,2,108000.0,151000.0
+cvs health,4.1,software engineer | the points guy,"San Juan, PR",2d,123K - 196K,software engineer,not specified,,San Juan,PR,False,False,United States,2,123000.0,196000.0
+"messenger, llc",4.4,software development itam engineer,"Lansing, MI",5d,116K - 166K,software engineer,not specified,,Lansing,MI,False,False,United States,5,116000.0,166000.0
+nelnet,3.5,software developer,"Auburn, IN",3d,59K - 107K,software engineer,not specified,,Auburn,IN,False,False,United States,3,59000.0,107000.0
+slate magazine,4.8,it software engineer- nbs,"Lincoln, NE",24d,104K - 163K,software engineer,not specified,,Lincoln,NE,False,False,United States,24,104000.0,163000.0
+adobe,3.5,software engineer,"Washington, DC",30d+,68K - 80K,software engineer,not specified,,Washington,DC,False,False,United States,30,68000.0,80000.0
+airgas,4.1,software engineer,"Lehi, UT",12d,83K - 107K,software engineer,not specified,,Lehi,UT,False,False,United States,12,83000.0,107000.0
+umbra,3.9,firmware engineer,"Cheshire, CT",2d,109K - 209K,other,not specified,,Cheshire,CT,False,False,United States,2,109000.0,209000.0
+uber,3.8,senior software engineer,"Santa Barbara, CA",5d,97K - 197K,software engineer,senior,,Santa Barbara,CA,False,False,United States,5,97000.0,197000.0
+collaborative robotics,3.7,software engineer ii - uber eats,"San Francisco, CA",27d,57K - 96K,software engineer,junior,,San Francisco,CA,False,False,United States,27,57000.0,96000.0
+werfen,3.3,"software engineer, robotics","Santa Clara, CA",8d,98K - 145K,software engineer,not specified,,Santa Clara,CA,False,False,United States,8,98000.0,145000.0
+snapchat,4.3,"software development engineer in test, digital solutions","Bedford, MA",19d,66K - 90K,qa/test engineer,not specified,,Bedford,MA,False,False,United States,19,66000.0,90000.0
+"canon medical research usa, inc",3.7,"c++ graphics engineer, 1+ years of experience","New York, NY",2d,55.00 - 60.00 Per Hour,other,junior,c++,New York,NY,False,False,United States,2,,
+raytheon,4.0,software engineer,"Cambridge, MA",2d,79K - 168K,software engineer,not specified,,Cambridge,MA,False,False,United States,2,79000.0,168000.0
+snapchat,3.8,junior software engineer,"Annapolis Junction, MD",6d,102K - 174K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,6,102000.0,174000.0
+hudson river trading,3.9,"software engineer, c++, 3+ years of experience","Los Angeles, CA",4d,73K - 108K,software engineer,senior,c++,Los Angeles,CA,False,False,United States,4,73000.0,108000.0
+whisker,4.3,systems software engineer,"New York, NY",30d+,110K - 190K,software engineer,not specified,,New York,NY,False,False,United States,30,110000.0,190000.0
+mastercard,3.1,senior software engineer,"Auburn Hills, MI",30d+,94K - 137K,software engineer,senior,,Auburn Hills,MI,False,False,United States,30,94000.0,137000.0
+savannah river mission completion,3.6,software engineer ii,"O Fallon, MO",8d,89K - 113K,software engineer,junior,,O Fallon,MO,False,False,United States,8,89000.0,113000.0
+mill-max,3.8,associate software developer,"Aiken, SC",9d,80K - 100K,software engineer,not specified,,Aiken,SC,False,False,United States,9,80000.0,100000.0
+disney entertainment & espn technology,3.8,software engineer trainee,"Oyster Bay, NY",24d,128K - 179K,software engineer,not specified,,Oyster Bay,NY,False,False,United States,24,128000.0,179000.0
+coca-cola,4.2,sr software engineer,"Seattle, WA",1d,74K - 125K,software engineer,senior,,Seattle,WA,False,False,United States,1,74000.0,125000.0
+kaleido,4.1,staff software engineer,"Atlanta, GA",4d,90K - 187K,software engineer,not specified,,Atlanta,GA,False,False,United States,4,90000.0,187000.0
+m&t bank,3.7,full stack engineer,"Raleigh, NC",5d,143K - 256K,other,not specified,fullstack,Raleigh,NC,False,False,United States,5,143000.0,256000.0
+lufburrow & co,3.4,"software engineer - api, java, spring boot","Buffalo, NY",30d+,114K - 145K,software engineer,not specified,java,Buffalo,NY,False,False,United States,30,114000.0,145000.0
+boost tech,4.1,software engineer - hybrid,"Havre de Grace, MD",30d+,101K - 155K,software engineer,not specified,,Havre de Grace,MD,False,False,United States,30,101000.0,155000.0
+bae systems,3.9,senior software engineer (crm),Remote,2d,84K - 128K,software engineer,senior,,,,True,False,United States,2,84000.0,128000.0
+vantaca,4.5,test software engineer,"Nashua, NH",4d,100.00 Per Hour,software engineer,not specified,,Nashua,NH,False,False,United States,4,100000.0,0.0
+numerica corporation,4.7,mobile engineer,data not available,2d,71K - 104K,other,not specified,,,,False,True,United States,2,71000.0,104000.0
+veracity engineering,4.6,software engineer (multiple openings),"Fort Collins, CO",18d,99K - 137K,software engineer,not specified,,Fort Collins,CO,False,False,United States,18,99000.0,137000.0
+applovin,4.7,software engineer,"Washington, DC",5d,15.69 Per Hour,software engineer,not specified,,Washington,DC,False,False,United States,5,15000.0,69000.0
+m&t bank,4.1,"software engineer ii, c++ backend","Palo Alto, CA",5d,141K - 211K,software engineer,junior,"backend, c++",Palo Alto,CA,False,False,United States,5,141000.0,211000.0
+cvs health,4.2,software engineer ii,"Wilmington, DE",30d+,76K - 128K,software engineer,junior,,Wilmington,DE,False,False,United States,30,76000.0,128000.0
+microsoft,4.1,junior software developer (java & azure cloud),"Woonsocket, RI",2d,93K - 129K,software engineer,junior,"cloud, java",Woonsocket,RI,False,False,United States,2,93000.0,129000.0
+northwest talent solutions llc,3.6,software engineer 2,data not available,2d,93K - 131K,software engineer,junior,,,,False,True,United States,2,93000.0,131000.0
+honda research institute usa,4.2,senior software engineer,"Boston, MA",30d+,86K - 145K,software engineer,senior,,Boston,MA,False,False,United States,30,86000.0,145000.0
+activision,4.0,software engineer for mobile robots,"San Jose, CA",13d,67K - 112K,software engineer,not specified,,San Jose,CA,False,False,United States,13,67000.0,112000.0
+thatgamecompany,3.6,senior software engineer,"Santa Monica, CA",9d,116K - 150K,software engineer,senior,,Santa Monica,CA,False,False,United States,9,116000.0,150000.0
+bny mellon,4.0,build engineer,California,4d,85K - 115K,other,not specified,,California,,False,False,United States,4,85000.0,115000.0
+recruiting from scratch,3.6,"vice president, back-end engineer i","Lake Mary, FL",2d,90K - 115K,other,junior,,Lake Mary,FL,False,False,United States,2,90000.0,115000.0
+"akina, inc.",3.9,founding software engineer,"San Francisco, CA",3d,92K - 156K,software engineer,not specified,,San Francisco,CA,False,False,United States,3,92000.0,156000.0
+vonnen,4.8,software engineer - 1 (kubernetes/python),"Annapolis Junction, MD",18d,150K - 200K,software engineer,junior,python,Annapolis Junction,MD,False,False,United States,18,150000.0,200000.0
+capgemini,4.5,software engineer,"Santa Clara, CA",9d,95K - 147K,software engineer,not specified,,Santa Clara,CA,False,False,United States,9,95000.0,147000.0
+"stefanini, inc",3.6,software engineer - redis,"Irving, TX",2d,102K - 148K,software engineer,not specified,,Irving,TX,False,False,United States,2,102000.0,148000.0
+infosys,4.7,software engineer,"Dearborn, MI",25d,40.00 - 60.00 Per Hour,software engineer,not specified,,Dearborn,MI,False,False,United States,25,,
+"link, llc",4.9,release engineer,"Chicago, IL",9d,86K - 109K,other,not specified,,Chicago,IL,False,False,United States,9,86000.0,109000.0
+autodesk,3.9,"golang software engineer (vista bighitter), bs+7, telework","Annapolis Junction, MD",11d,87K - 125K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,11,87000.0,125000.0
+bct llc,3.9,"software development engineer, platform services",Oregon,6d,75.00 - 80.00 Per Hour,software engineer,not specified,,Oregon,,False,False,United States,6,,
+jpmorgan chase & co,4.8,software engineer (id),United States,4d,142K - 183K,software engineer,not specified,,United States,,False,False,United States,4,142000.0,183000.0
+wr systems,4.2,software engineer,"Jersey City, NJ",2d,77K - 125K,software engineer,not specified,,Jersey City,NJ,False,False,United States,2,77000.0,125000.0
+acuity brands,3.5,software engineer,"Dahlgren, VA",3d,162K - 244K,software engineer,not specified,,Dahlgren,VA,False,False,United States,3,162000.0,244000.0
+cisco systems,4.1,software engineer,"Conyers, GA",3d,85K - 104K,software engineer,not specified,,Conyers,GA,False,False,United States,3,85000.0,104000.0
+walgreens,3.3,software qa engineer,"San Jose, CA",12d,140K - 145K,qa/test engineer,not specified,,San Jose,CA,False,False,United States,12,140000.0,145000.0
+"vivint, inc.",3.8,senior software engineer,"Deerfield, IL",2d,95K - 130K,software engineer,senior,,Deerfield,IL,False,False,United States,2,95000.0,130000.0
+caelum research corporation,4.1,sr. software engineer,"Lehi, UT",4d,90K - 150K,software engineer,senior,,Lehi,UT,False,False,United States,4,90000.0,150000.0
+oracle,4.5,software engineer,"Carlisle, PA",22d,140K - 150K,software engineer,not specified,,Carlisle,PA,False,False,United States,22,140000.0,150000.0
+fidelity investments,3.8,software developer,"Redwood City, CA",24h,183K - 297K,software engineer,not specified,,Redwood City,CA,False,False,United States,24,183000.0,297000.0
+colorado state university,4.5,cloud engineer,"Westlake, TX",9d,120K - 140K,cloud engineer,not specified,cloud,Westlake,TX,False,False,United States,9,120000.0,140000.0
+bayer,2.3,application programmer analyst/developer i,"Fort Collins, CO",5d,97K - 129K,other,junior,,Fort Collins,CO,False,False,United States,5,97000.0,129000.0
+usaa,3.9,software engineer ii,"Indianola, PA",12d,50K - 90K,software engineer,junior,,Indianola,PA,False,False,United States,12,50000.0,90000.0
+accenture federal services,3.1,senior react/javascript software engineer,"San Antonio, TX",1d,74K - 122K,software engineer,senior,"java, javascript",San Antonio,TX,False,False,United States,1,74000.0,122000.0
+gundersen health system,5.0,software engineer,"Lorton, VA",13d,85K - 150K,software engineer,not specified,,Lorton,VA,False,False,United States,13,85000.0,150000.0
+"jrc integrated systems, llc",3.9,software engineer | front end developer,"Onalaska, WI",30d+,82K - 114K,software engineer,not specified,frontend,Onalaska,WI,False,False,United States,30,82000.0,114000.0
+xl softek,3.9,software engineer,"Washington, DC",11d,107K - 150K,software engineer,not specified,,Washington,DC,False,False,United States,11,107000.0,150000.0
+kasmo cloud solutions,4.0,software engineers,"Suwanee, GA",30d+,215K - 220K,software engineer,not specified,,Suwanee,GA,False,False,United States,30,215000.0,220000.0
+"icr, inc.",4.2,software engineer,"Carol Stream, IL",5d,90K - 180K,software engineer,not specified,,Carol Stream,IL,False,False,United States,5,90000.0,180000.0
+workday,4.0,"software engineer - front end (dashboard) - aurora, co","Aurora, CO",30d+,130K - 160K,software engineer,not specified,frontend,Aurora,CO,False,False,United States,30,130000.0,160000.0
+360care,3.0,"sr associate software engineer, database as a service","Atlanta, GA",5d,75K - 126K,software engineer,senior,,Atlanta,GA,False,False,United States,5,75000.0,126000.0
+amex,3.5,software engineer,"Louisville, KY",30d+,79K - 119K,software engineer,not specified,,Louisville,KY,False,False,United States,30,79000.0,119000.0
+dkw communications,3.5,senior engineer - java - go2 unify,"Sunrise, FL",30d+,125K - 150K,other,senior,java,Sunrise,FL,False,False,United States,30,125000.0,150000.0
+"sick, inc.",4.1,senior software engineer,"Point Mugu NAWC, CA",4d,77K - 102K,software engineer,senior,,Point Mugu NAWC,CA,False,False,United States,4,77000.0,102000.0
+antithesis,3.2,software engineer ii,"Minneapolis, MN",3d,102K - 138K,software engineer,junior,,Minneapolis,MN,False,False,United States,3,102000.0,138000.0
+rekuten global,3.9,junior ruby on rails engineer,Remote,3d,115K - 155K,other,junior,,,,True,False,United States,3,115000.0,155000.0
+tencent,4.0,senior software engineer,"Vienna, VA",2d,84K - 132K,software engineer,senior,,Vienna,VA,False,False,United States,2,84000.0,132000.0
+realmone,4.1,software engineer,"Beloit, WI",30d+,80.00 Per Hour,software engineer,not specified,,Beloit,WI,False,False,United States,30,80000.0,0.0
+zoox,4.1,security software engineer i,"Palo Alto, CA",6d,80K - 108K,software engineer,junior,,Palo Alto,CA,False,False,United States,6,80000.0,108000.0
+cybercore technologies,4.3,software engineer 1,Maryland,30d+,148K - 230K,software engineer,junior,,Maryland,,False,False,United States,30,148000.0,230000.0
+synergy ecp,4.1,"software engineer, workflow orchestration","Foster City, CA",30d+,81K - 101K,software engineer,not specified,,Foster City,CA,False,False,United States,30,81000.0,101000.0
+innovative defense technologies (idt),3.9,software engineer 3,"Annapolis Junction, MD",19d,65K - 112K,software engineer,senior,,Annapolis Junction,MD,False,False,United States,19,65000.0,112000.0
+veterans engineering incorporated,4.1,backend python software engineer,"Annapolis Junction, MD",30d+,88K - 117K,software engineer,not specified,"backend, python",Annapolis Junction,MD,False,False,United States,30,88000.0,117000.0
+solvere technical group,3.6,software engineer,"Fall River, MA",30d+,10K - 20K,software engineer,not specified,,Fall River,MA,False,False,United States,30,10000.0,20000.0
+"iralogix,inc",3.9,cloud engineer,United States,10d,111K - 153K,cloud engineer,not specified,cloud,United States,,False,False,United States,10,111000.0,153000.0
+nava,3.8,software engineer,"Indian Head, MD",2d,91K - 126K,software engineer,not specified,,Indian Head,MD,False,False,United States,2,91000.0,126000.0
+f5,3.6,senior software engineer,"Pittsburgh, PA",4d,125K - 140K,software engineer,senior,,Pittsburgh,PA,False,False,United States,4,125000.0,140000.0
+bae systems,4.5,sr. software engineer,Remote,2d,66K - 116K,software engineer,senior,,,,True,False,United States,2,66000.0,116000.0
+synergy ecp,3.4,software engineer iii,"San Jose, CA",19d,108K - 146K,software engineer,senior,,San Jose,CA,False,False,United States,19,108000.0,146000.0
+ge healthcare,4.0,"engineer, junior software","Lexington Park, MD",30d+,90K - 130K,software engineer,junior,,Lexington Park,MD,False,False,United States,30,90000.0,130000.0
+tc energy,2.4,software engineer,"Annapolis Junction, MD",30d+,80K - 90K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,30,80000.0,90000.0
+principal fidata not availablecial group,4.3,"senior software engineer (hybrid, onsite)","Milwaukee, WI",3d,86K - 119K,software engineer,senior,,Milwaukee,WI,False,False,United States,3,86000.0,119000.0
+schlumberger,3.4,new engineer-in-training (net) rotational program,"Houston, TX",6d,120K - 250K,other,not specified,,Houston,TX,False,False,United States,6,120000.0,250000.0
+ixl learning,3.8,"sr software engineer, snowflake focus",data not available,2d,54K - 83K,software engineer,senior,,,,False,True,United States,2,54000.0,83000.0
+jbt corporation,4.6,back end software engineer,"Houston, TX",9d,55K - 90K,software engineer,not specified,backend,Houston,TX,False,False,United States,9,55000.0,90000.0
+flash technology group,4.2,software engineer,"San Mateo, CA",30d+,84K - 157K,software engineer,not specified,,San Mateo,CA,False,False,United States,30,84000.0,157000.0
+innovative defense technologies (idt),3.7,devops engineer,"Chalfont, PA",30d+,96K - 128K,devops engineer,not specified,devops,Chalfont,PA,False,False,United States,30,96000.0,128000.0
+fairfax county public schools,4.2,software engineer i,"Laurel, MD",30d+,106K - 125K,software engineer,junior,,Laurel,MD,False,False,United States,30,106000.0,125000.0
+scholarly,4.5,software engineer,United States,5d,81K - 123K,software engineer,not specified,,United States,,False,False,United States,5,81000.0,123000.0
+innovative defense technologies (idt),3.0,software engineer (one year only),"Wilton Woods, VA",30d+,92K - 131K,software engineer,not specified,,Wilton Woods,VA,False,False,United States,30,92000.0,131000.0
+burst inc.,2.0,software engineer,"Seattle, WA",9d,115K - 166K,software engineer,not specified,,Seattle,WA,False,False,United States,9,115000.0,166000.0
+usn technical associates,3.9,devsecops software engineer,"Fall River, MA",5d,113K - 161K,software engineer,not specified,,Fall River,MA,False,False,United States,5,113000.0,161000.0
+snc,2.8,video software engineer,"Lexington, MA",11d,160K - 385K,software engineer,not specified,,Lexington,MA,False,False,United States,11,160000.0,385000.0
+decision six,4.1,contract software engineer,"Los Angeles, CA",5d,62K - 102K,software engineer,not specified,,Los Angeles,CA,False,False,United States,5,62000.0,102000.0
+laiba technologies,4.4,software engineer ii,"Southern Pines, NC",1d,73K - 110K,software engineer,junior,,Southern Pines,NC,False,False,United States,1,73000.0,110000.0
+teamups,4.4,devops engineer,"Newtown Square, PA",5d,200K - 370K,devops engineer,not specified,devops,Newtown Square,PA,False,False,United States,5,200000.0,370000.0
+delta dental ins.,4.0,do178c software engineer,"Everett, WA",30d+,93K - 147K,software engineer,not specified,,Everett,WA,False,False,United States,30,93000.0,147000.0
+valkyrie enterprises,4.1,senior software engineer,"Seattle, WA",30d+,69K - 107K,software engineer,senior,,Seattle,WA,False,False,United States,30,69000.0,107000.0
+uipath,3.7,expert software engineer,"Alpharetta, GA",1d,50K - 60K,software engineer,not specified,,Alpharetta,GA,False,False,United States,1,50000.0,60000.0
+atlas copco tools & assembly systems llc,3.7,software engineer (job id:3425),"Huntsville, AL",27d,70K - 108K,software engineer,not specified,,Huntsville,AL,False,False,United States,27,70000.0,108000.0
+anb sourcing llc,3.8,senior software engineer,"Bellevue, WA",9d,102K - 134K,software engineer,senior,,Bellevue,WA,False,False,United States,9,102000.0,134000.0
+mcintire solutions,4.5,software engineer,"Auburn Hills, MI",13d,103K - 133K,software engineer,not specified,,Auburn Hills,MI,False,False,United States,13,103000.0,133000.0
+pennymac,4.6,azure devops engineer || full time job.,Remote,2d,50.00 Per Hour,devops engineer,not specified,devops,,,True,False,United States,2,50000.0,0.0
+literati,3.7,software systems engineer/devops engineer,"Chantilly, VA",18d,84K - 110K,devops engineer,not specified,devops,Chantilly,VA,False,False,United States,18,84000.0,110000.0
+"rochester software associates, inc.",4.1,clojure software engineer,"Agoura Hills, CA",4d,66K - 94K,software engineer,not specified,,Agoura Hills,CA,False,False,United States,4,66000.0,94000.0
+plaid,3.7,wordpress full stack engineer (react),Texas,1d,102K - 149K,other,not specified,fullstack,Texas,,False,False,United States,1,102000.0,149000.0
+tigergraph,3.9,c# software developer,United States,10d,187K - 197K,software engineer,not specified,c#,United States,,False,False,United States,10,187000.0,197000.0
+"garmin international, inc.",3.7,experienced software engineer - scaled access,"New York, NY",30d+,70K - 96K,software engineer,not specified,,New York,NY,False,False,United States,30,70000.0,96000.0
+resilio inc.,4.4,software engineer,"Redwood City, CA",5d,100K - 110K,software engineer,not specified,,Redwood City,CA,False,False,United States,5,100000.0,110000.0
+candid,3.7,software certification engineer 1 - software quality,"Salem, OR",25d,83K - 116K,software engineer,junior,,Salem,OR,False,False,United States,25,83000.0,116000.0
+amex,4.3,technical support engineer (endpoint software),Virginia,9d,100K - 250K,software engineer,not specified,,Virginia,,False,False,United States,9,100000.0,250000.0
+radiance technologies,4.4,ecosystems software engineer,United States,17d,100K - 115K,software engineer,not specified,,United States,,False,False,United States,17,100000.0,115000.0
+fabletics,3.6,engineer,"Phoenix, AZ",2d,64K - 101K,other,not specified,,Phoenix,AZ,False,False,United States,2,64000.0,101000.0
+delta dental ins.,3.7,r&d software engineer,"Stennis Space Center, MS",30d+,66K - 68K,software engineer,not specified,,Stennis Space Center,MS,False,False,United States,30,66000.0,68000.0
+fractal analytics,4.1,sr. software engineer,California,24d,79K - 117K,software engineer,senior,,California,,False,False,United States,24,79000.0,117000.0
+microchip technology,2.4,expert software engineer,"Oakland, CA",1d,140K,software engineer,not specified,,Oakland,CA,False,False,United States,1,,
+york space systems,4.2,software development engineer,California,30d+,118K - 169K,software engineer,not specified,,California,,False,False,United States,30,118000.0,169000.0
+proteus co.,3.5,engineer ii - software,data not available,2d,56K - 89K,software engineer,junior,,,,False,True,United States,2,56000.0,89000.0
+software productivity strategists,3.3,sr. full stack software engineer,"Greenwood Village, CO",3d,130K - 270K,software engineer,senior,fullstack,Greenwood Village,CO,False,False,United States,3,130000.0,270000.0
+neuropace,4.2,software engineer,"Lincoln, NE",30d+,110K - 157K,software engineer,not specified,,Lincoln,NE,False,False,United States,30,110000.0,157000.0
+oceanfrogs,2.5,software engineer,"Rockville, MD",30d+,93K - 130K,software engineer,not specified,,Rockville,MD,False,False,United States,30,93000.0,130000.0
+"iconectiv, llc.",3.5,full stack software engineer,"Mountain View, CA",7d,120K - 140K,software engineer,not specified,fullstack,Mountain View,CA,False,False,United States,7,120000.0,140000.0
+the aerospace corporation,3.9,full stack software developer,"Duluth, GA",30d+,94K - 160K,software engineer,not specified,fullstack,Duluth,GA,False,False,United States,30,94000.0,160000.0
+fetch package,4.8,software engineer (oracle database expertise),"Bridgewater, NJ",4d,101K - 144K,software engineer,not specified,,Bridgewater,NJ,False,False,United States,4,101000.0,144000.0
+zenith services,4.7,data engineer / software engineer,"Chantilly, VA",30d+,108K - 156K,data engineer,not specified,,Chantilly,VA,False,False,United States,30,108000.0,156000.0
+matthews international corporation,3.9,lead front-end software engineer,"Austin, TX",4d,74K - 100K,software engineer,leadership,,Austin,TX,False,False,United States,4,74000.0,100000.0
+oracle,2.9,react native engineer,"Bentonville, AR",30d+,73K - 100K,other,not specified,,Bentonville,AR,False,False,United States,30,73000.0,100000.0
+nvidia,4.0,software engineer,"Apopka, FL",3d,112K - 196K,software engineer,not specified,,Apopka,FL,False,False,United States,3,112000.0,196000.0
+pingwind,4.0,software developer,United States,1d,98K - 137K,software engineer,not specified,,United States,,False,False,United States,1,98000.0,137000.0
+versaterm,3.5,senior full-stack web applications software engineer,"Santa Clara, CA",1d,80K - 94K,software engineer,senior,,Santa Clara,CA,False,False,United States,1,80000.0,94000.0
+apollo technology solutions llc,4.3,software developer*,"Scott Air Force Base, IL",9d,89K - 130K,software engineer,not specified,,Scott Air Force Base,IL,False,False,United States,9,89000.0,130000.0
+navrit creation,3.6,software engineer,"Lexington, SC",16d,78K - 131K,software engineer,not specified,,Lexington,SC,False,False,United States,16,78000.0,131000.0
+amazon.com services llc,5.0,sr. front end engineer (react),"Charlotte, NC",2d,65K - 107K,other,senior,frontend,Charlotte,NC,False,False,United States,2,65000.0,107000.0
+schneider electric,3.6,freelance web developer,"Colony, AL",1d,130K - 300K,other,not specified,,Colony,AL,False,False,United States,1,130000.0,300000.0
+akira technologies inc.,3.7,"software dev engineer, modeling software","Boston, MA",10d,66K - 98K,software engineer,not specified,,Boston,MA,False,False,United States,10,66000.0,98000.0
+ctc group,4.2,systems application engineer ii - software,"Secaucus, NJ",1d,153K - 225K,software engineer,junior,,Secaucus,NJ,False,False,United States,1,153000.0,225000.0
+space coast intelligent solutions,3.9,servicenow software engineer,"Washington, DC",9d,69K - 103K,software engineer,not specified,,Washington,DC,False,False,United States,9,69000.0,103000.0
+credo,3.9,python developer,"Fort Meade, MD",6d,83K - 114K,other,not specified,python,Fort Meade,MD,False,False,United States,6,83000.0,114000.0
+9th networks inc,4.4,software engineer iv,"Melbourne, FL",30d+,107K - 174K,software engineer,senior,,Melbourne,FL,False,False,United States,30,107000.0,174000.0
+tuvoli,3.1,system software engineer,"San Jose, CA",3d,78K,software engineer,not specified,,San Jose,CA,False,False,United States,3,,
+walter p moore,4.1,go lang/platform engineer,"Jersey City, NJ",3d,175K - 265K,other,not specified,,Jersey City,NJ,False,False,United States,3,175000.0,265000.0
+linquest corporation,3.9,senior software engineer,Massachusetts,16d,53K - 107K,software engineer,senior,,Massachusetts,,False,False,United States,16,53000.0,107000.0
+codesignal,3.8,front-end software developer,"Washington, DC",17d,60.00 - 80.00 Per Hour,software engineer,not specified,,Washington,DC,False,False,United States,17,,
+hewlett packard,5.0,software engineer,"Beavercreek, OH",30d+,86K - 128K,software engineer,not specified,,Beavercreek,OH,False,False,United States,30,86000.0,128000.0
+dupli envelope & graphics,4.8,"software engineer, innovation lab","San Francisco, CA",18d,165K - 215K,software engineer,not specified,,San Francisco,CA,False,False,United States,18,165000.0,215000.0
+coinbase,4.2,software quality engineer,"Fort Collins, CO",10d,165K - 215K,software engineer,not specified,,Fort Collins,CO,False,False,United States,10,165000.0,215000.0
+lseg (london stock exchange group),4.0,software support engineer,"Syracuse, NY",3d,102K - 138K,software engineer,not specified,,Syracuse,NY,False,False,United States,3,102000.0,138000.0
+inabia software & consulting inc.,3.8,software engineer,Remote,12d,76K - 175K,software engineer,not specified,,,,True,False,United States,12,76000.0,175000.0
+pmall,4.5,full stack engineer,"Washington, DC",30d+,96K - 118K,other,not specified,fullstack,Washington,DC,False,False,United States,30,96000.0,118000.0
+alloy,4.0,software developer,"Bellevue, WA",30d+,86K - 129K,software engineer,not specified,,Bellevue,WA,False,False,United States,30,86000.0,129000.0
+qinetiq us,3.9,front-end developer,"Burr Ridge, IL",10d,160K - 385K,other,not specified,,Burr Ridge,IL,False,False,United States,10,160000.0,385000.0
+caterpillar,4.0,solutions engineer,United States,3d,184K - 337K,other,not specified,,United States,,False,False,United States,3,184000.0,337000.0
+"jason pharmaceuticals, inc.",4.0,software engineer,"McLean, VA",9d,127K - 184K,software engineer,not specified,,McLean,VA,False,False,United States,9,127000.0,184000.0
+intellibridge llc,3.6,software engineer,"Peoria, IL",2d,79K - 130K,software engineer,not specified,,Peoria,IL,False,False,United States,2,79000.0,130000.0
+snyk,3.4,sr software engineer,"Lehi, UT",10d,120K - 207K,software engineer,senior,,Lehi,UT,False,False,United States,10,120000.0,207000.0
+openai,4.2,software engineer,"Washington, DC",10d,112K - 152K,software engineer,not specified,,Washington,DC,False,False,United States,10,112000.0,152000.0
+vertex professional service llc,2.7,senior software engineer (typescript/go),"Boston, MA",2d,130K - 158K,software engineer,senior,,Boston,MA,False,False,United States,2,130000.0,158000.0
+"decibel research, inc.",2.7,"software engineer, backend","San Francisco, CA",5d,103K - 172K,software engineer,not specified,backend,San Francisco,CA,False,False,United States,5,103000.0,172000.0
+openai,4.4,"software engineer ii (insite) - ""w-trs""","Orlando, FL",2d,82K - 209K,software engineer,junior,,Orlando,FL,False,False,United States,2,82000.0,209000.0
+comsol inc.,3.1,mid-level software engineer,"Huntsville, AL",25d,116K - 174K,software engineer,mid-level,,Huntsville,AL,False,False,United States,25,116000.0,174000.0
+infosys,3.8,"full stack engineer, leverage engineering","San Francisco, CA",6d,130K - 165K,other,not specified,fullstack,San Francisco,CA,False,False,United States,6,130000.0,165000.0
+hero facility services,3.8,software developer – ray optics,"Burlington, MA",4d,150K - 185K,software engineer,not specified,,Burlington,MA,False,False,United States,4,150000.0,185000.0
+qed systems llc,3.9,junior python developer,"Charlotte, NC",2d,98K - 209K,other,junior,python,Charlotte,NC,False,False,United States,2,98000.0,209000.0
+kasasa,4.4,entry level developer,"Melbourne, FL",3d,102K - 204K,other,junior,,Melbourne,FL,False,False,United States,3,102000.0,204000.0
+"delta air lines, inc.",3.7,software engineer,"Aberdeen Proving Ground, MD",30d+,125K - 140K,software engineer,not specified,,Aberdeen Proving Ground,MD,False,False,United States,30,125000.0,140000.0
+han it,3.6,senior software engineer (hybrid),"Austin, TX",11d,108K - 216K,software engineer,senior,,Austin,TX,False,False,United States,11,108000.0,216000.0
+innovative solutions and support,3.9,software development engineer,"Atlanta, GA",3d,79K - 116K,software engineer,not specified,,Atlanta,GA,False,False,United States,3,79000.0,116000.0
+promega,4.8,python developer,"Morris Plains, NJ",3d,67K - 128K,other,not specified,python,Morris Plains,NJ,False,False,United States,3,67000.0,128000.0
+revenue management solutions llc,3.7,software verification engineer,"Exton, PA",12d,129K - 162K,software engineer,not specified,,Exton,PA,False,False,United States,12,129000.0,162000.0
+cityblock health,3.8,"software engineer, instrumentation","Madison, WI",16d,90K - 110K,software engineer,not specified,,Madison,WI,False,False,United States,16,90000.0,110000.0
+astrion,3.7,devops engineer,"Oklahoma City, OK",12d,117K - 306K,devops engineer,not specified,devops,Oklahoma City,OK,False,False,United States,12,117000.0,306000.0
+diverse career solutions,3.4,staff software engineer,New York State,9d,100K - 115K,software engineer,not specified,,New York State,,False,False,United States,9,100000.0,115000.0
+synergy ecp,4.2,software developer,"Eglin AFB, FL",17d,87K - 142K,software engineer,not specified,,Eglin AFB,FL,False,False,United States,17,87000.0,142000.0
+"icr, inc.",4.0,sr. software engineer,Remote,3d,92K - 132K,software engineer,senior,,,,True,False,United States,3,92000.0,132000.0
+broadridge,3.8,software engineer,"Columbia, MD",30d+,105K - 160K,software engineer,not specified,,Columbia,MD,False,False,United States,30,105000.0,160000.0
+zurn elkay water solutions,5.0,"software systems engineer - mason, oh","Mason, OH",30d+,144K - 196K,software engineer,not specified,,Mason,OH,False,False,United States,30,144000.0,196000.0
+florida state college at jacksonville,4.2,deployment engineer (hybrid),"Newark, NJ",9d,69K - 91K,other,not specified,,Newark,NJ,False,False,United States,9,69000.0,91000.0
+q9software,3.1,iot engineer,"Milwaukee, WI",27d,80K - 110K,other,not specified,,Milwaukee,WI,False,False,United States,27,80000.0,110000.0
+jpmorgan chase & co,3.8,engineer iv software,"Jacksonville, FL",27d,100K - 153K,software engineer,senior,,Jacksonville,FL,False,False,United States,27,100000.0,153000.0
+the bank of new york mellon corporation,3.4,entry level to senior level software developers,"Germantown, MD",30d+,170K - 200K,software engineer,entry to senior,,Germantown,MD,False,False,United States,30,170000.0,200000.0
+cisco systems,4.5,software engineer,"Jersey City, NJ",4d,87K - 124K,software engineer,not specified,,Jersey City,NJ,False,False,United States,4,87000.0,124000.0
+grand canyon education,4.0,2025 bny summer internship program - engineering (developer),"Pittsburgh, PA",6d,185K - 206K,other,not specified,,Pittsburgh,PA,False,False,United States,6,185000.0,206000.0
+captivation software,3.3,software engineer,"San Jose, CA",30d+,80K - 133K,software engineer,not specified,,San Jose,CA,False,False,United States,30,80000.0,133000.0
+docusign,4.6,jr. developer,"Phoenix, AZ",3d,90K - 127K,other,junior,,Phoenix,AZ,False,False,United States,3,90000.0,127000.0
+"canon medical research usa, inc.",3.6,software engineer 0 - java/react/docker/aws,"Annapolis Junction, MD",30d,108K - 199K,software engineer,not specified,java,Annapolis Junction,MD,False,False,United States,30,108000.0,199000.0
+standard bots,2.5,ai saas engineer,"San Francisco, CA",1d,62K - 102K,other,not specified,,San Francisco,CA,False,False,United States,1,62000.0,102000.0
+american agcredit,4.1,software engineer,"Boston, MA",1d,85K - 104K,software engineer,not specified,,Boston,MA,False,False,United States,1,85000.0,104000.0
+kapsch,4.0,software quality engineer,"Glen Cove, NY",11d,73K - 127K,software engineer,not specified,,Glen Cove,NY,False,False,United States,11,73000.0,127000.0
+prevail,3.9,devops engineer,Remote,2d,100K - 140K,devops engineer,not specified,devops,,,True,False,United States,2,100000.0,140000.0
+dcs corp,4.8,software engineer,"Chantilly, VA",30d+,160K - 194K,software engineer,not specified,,Chantilly,VA,False,False,United States,30,160000.0,194000.0
+consensus health,3.9,software engineer video,"San Francisco, CA",5d,107K - 145K,software engineer,not specified,,San Francisco,CA,False,False,United States,5,107000.0,145000.0
+rippling,4.2,software engineer,"Dayton, OH",3d,74K - 131K,software engineer,not specified,,Dayton,OH,False,False,United States,3,74000.0,131000.0
+aci worldwide,4.0,associate software engineer,"Lenexa, KS",5d,240K,software engineer,not specified,,Lenexa,KS,False,False,United States,5,,
+"engineering technology associates, inc.",5.0,full stack engineer ii (frontend) - benefits,"San Francisco, CA",2d,16.00 - 46.00 Per Hour,software engineer,junior,"frontend, fullstack",San Francisco,CA,False,False,United States,2,,
+fusion innovation,5.0,software engineer - hybrid,"Norcross, GA",3d,70K - 120K,software engineer,not specified,,Norcross,GA,False,False,United States,3,70000.0,120000.0
+"clarity innovations, llc",4.1,software test engineer,"Dearborn, MI",1d,160K - 225K,qa/test engineer,not specified,,Dearborn,MI,False,False,United States,1,160000.0,225000.0
+ripplematch opportunities,3.9,software engineer,"Herndon, VA",30d+,99K - 134K,software engineer,not specified,,Herndon,VA,False,False,United States,30,99000.0,134000.0
+power3 solutions and partnering companies,3.5,jr. java software engineer (swe1) (pp) 228,"Annapolis Junction, MD",30d+,102K - 143K,software engineer,junior,java,Annapolis Junction,MD,False,False,United States,30,102000.0,143000.0
+datadog,3.9,"imc - software engineer, application via ripplematch","Chicago, IL",4d,150K - 240K,software engineer,not specified,,Chicago,IL,False,False,United States,4,150000.0,240000.0
+paccar,4.2,python engineer,"Annapolis Junction, MD",10d,160K - 170K,other,not specified,python,Annapolis Junction,MD,False,False,United States,10,160000.0,170000.0
+front,4.1,senior software engineer - frontend - sheets,United States,11d,144K - 200K,software engineer,senior,frontend,United States,,False,False,United States,11,144000.0,200000.0
+northrop grumman,4.1,vehicle software and diagnostics tool test engineer,"Mount Vernon, WA",4d,110K - 120K,qa/test engineer,not specified,,Mount Vernon,WA,False,False,United States,4,110000.0,120000.0
+pegasystems,4.1,"backend software engineer, deliverability","San Francisco, CA",4d,165K - 211K,software engineer,not specified,backend,San Francisco,CA,False,False,United States,4,165000.0,211000.0
+lawrence berkeley national laboratory,3.6,2024 associate software engineer - linthicum md,"Linthicum, MD",1d,92K - 116K,software engineer,not specified,,Linthicum,MD,False,False,United States,1,92000.0,116000.0
+cargill,3.5,"associate software engineer, services engineering","Waltham, MA",3d,65.00 Per Hour,software engineer,not specified,,Waltham,MA,False,False,United States,3,65000.0,0.0
+zoox,3.9,optimization software engineer,"San Francisco, CA",30d+,66K - 132K,software engineer,not specified,,San Francisco,CA,False,False,United States,30,66000.0,132000.0
+globalfoundries,3.7,"associate software engineer - technology development program, summer 2025 - atlanta, ga","Atlanta, GA",1d,140K - 175K,software engineer,not specified,,Atlanta,GA,False,False,United States,1,140000.0,175000.0
+tru47,4.8,software engineer - perception ml ops,"Boston, MA",30d+,169K - 225K,software engineer,not specified,,Boston,MA,False,False,United States,30,169000.0,225000.0
+schneider electric,4.1,"design enablement engineer, software engineering ai/machine learning (2024 new college graduate)","Malta, NY",23d,61K - 95K,software engineer,not specified,,Malta,NY,False,False,United States,23,61000.0,95000.0
+gopuff,3.2,shopify webmaster,Remote,3d,90K - 125K,other,not specified,,,,True,False,United States,3,90000.0,125000.0
+gopuff,3.6,software development test engineer - electrical iot devices,"Foxborough, MA",1d,162K - 284K,qa/test engineer,not specified,,Foxborough,MA,False,False,United States,1,162000.0,284000.0
+camelot integrated solutions inc.,3.9,senior software engineer - delivery tech,"Miami, FL",17d,91K - 137K,software engineer,senior,,Miami,FL,False,False,United States,17,91000.0,137000.0
+cvs health,5.0,senior software engineer - warehouse,"Miami, FL",17d,160K - 175K,software engineer,senior,,Miami,FL,False,False,United States,17,160000.0,175000.0
+boeing,4.6,senior software engineer i,"Houston, TX",30d+,177K - 323K,software engineer,senior,,Houston,TX,False,False,United States,30,177000.0,323000.0
+publix,3.4,software engineer - enterprise identity services,"Hartford, CT",11d,133K - 193K,software engineer,not specified,,Hartford,CT,False,False,United States,11,133000.0,193000.0
+experian,4.9,software engineer - junior level,"Annapolis Junction, MD",11d,81K - 99K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,11,81000.0,99000.0
+openai,4.3,software engineer – customer payments support,"Lakeland, FL",20d,85K - 95K,software engineer,not specified,,Lakeland,FL,False,False,United States,20,85000.0,95000.0
+bytedance,3.6,staff software engineer (remote),Texas,3d,180K - 339K,software engineer,not specified,,Texas,,False,False,United States,3,180000.0,339000.0
+alterra mountain company,4.2,"software engineer, full stack","San Francisco, CA",6d,163K - 200K,software engineer,not specified,fullstack,San Francisco,CA,False,False,United States,6,163000.0,200000.0
+experian,3.8,senior frontend software engineer - customer service plateform - seattle,"Seattle, WA",30d+,85K - 150K,software engineer,senior,frontend,Seattle,WA,False,False,United States,30,85000.0,150000.0
+"clarity innovations, llc",3.4,"software engineer, mobile (react native)","Denver, CO",13d,80K - 110K,software engineer,not specified,,Denver,CO,False,False,United States,13,80000.0,110000.0
+amazon advertising llc,3.4,senior software engineer (remote),California,3d,93K - 128K,software engineer,senior,,California,,False,False,United States,3,93000.0,128000.0
+boeing,4.1,junior software engineer (swe1) (qc) tto16-022,"Annapolis Junction, MD",30d+,112K - 154K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,30,112000.0,154000.0
+bose,4.1,"software quality assurance engineer (level 6), automotive",United States,11d,155K - 221K,software engineer,not specified,,United States,,False,False,United States,11,155000.0,221000.0
+macy’s,4.1,front end/ui mid-level software engineer,"Annapolis Junction, MD",16d,102K - 132K,software engineer,mid-level,frontend,Annapolis Junction,MD,False,False,United States,16,102000.0,132000.0
+microsoft,5.0,dsp software engineer,"Framingham, MA",30d+,80K - 111K,software engineer,not specified,,Framingham,MA,False,False,United States,30,80000.0,111000.0
+draftkings,4.1,lead software engineer - supply chain,"Johns Creek, GA",2d,187K - 280K,software engineer,leadership,,Johns Creek,GA,False,False,United States,2,187000.0,280000.0
+ge appliances,4.0,software engineer,"Redmond, WA",30d+,105K - 155K,software engineer,not specified,,Redmond,WA,False,False,United States,30,105000.0,155000.0
+quantum systems inc,4.1,"senior software engineer, ios",Remote,18d,92K - 120K,software engineer,senior,,,,True,False,United States,18,92000.0,120000.0
+"kaseware, inc.",4.1,software engineering co-op_summer 2025,"Louisville, KY",30d+,230K - 280K,software engineer,not specified,,Louisville,KY,False,False,United States,30,230000.0,280000.0
+microsoft,4.1,software engineer,"Moorpark, CA",19d,94K - 128K,software engineer,not specified,,Moorpark,CA,False,False,United States,19,94000.0,128000.0
+cvs health,4.2,software engineer,"Denver, CO",27d,129K,software engineer,not specified,,Denver,CO,False,False,United States,27,,
+jbt corporation,4.6,software engineer ii - automated reasoning and testing,"Redmond, WA",5d,80K - 180K,software engineer,junior,,Redmond,WA,False,False,United States,5,80000.0,180000.0
+fanatics inc.,3.9,sr software development engineer,"Buffalo Grove, IL",3d,93K - 129K,software engineer,senior,,Buffalo Grove,IL,False,False,United States,3,93000.0,129000.0
+innovative defense technologies (idt),4.1,senior software engineer c++,"Chalfont, PA",30d+,105K - 190K,software engineer,senior,c++,Chalfont,PA,False,False,United States,30,105000.0,190000.0
+microchip technology,4.0,"software engineer ii, (java/aws)",United States,12d,139K - 169K,software engineer,junior,java,United States,,False,False,United States,12,139000.0,169000.0
+"crunchyroll, llc",4.2,frontend software engineer,"Mount Laurel, NJ",5d,54K - 98K,software engineer,not specified,frontend,Mount Laurel,NJ,False,False,United States,5,54000.0,98000.0
+accrete.ai,3.7,engineer i-software,"San Jose, CA",23d,55K - 186K,software engineer,junior,,San Jose,CA,False,False,United States,23,55000.0,186000.0
+roku,3.8,"software engineer iii, android","Culver City, CA",30d+,101K - 139K,software engineer,senior,,Culver City,CA,False,False,United States,30,101000.0,139000.0
+early warning services,3.6,machine learning engineer (early career),"New York, NY",19d,88K - 120K,machine learning engineer,not specified,,New York,NY,False,False,United States,19,88000.0,120000.0
+workday,5.0,"senior software engineer, service mesh","Boston, MA",5d,129K - 202K,software engineer,senior,,Boston,MA,False,False,United States,5,129000.0,202000.0
+grainger,4.1,"software engineer - java, zelle","Scottsdale, AZ",1d,70K - 115K,software engineer,not specified,java,Scottsdale,AZ,False,False,United States,1,70000.0,115000.0
+costco wholesale,4.7,front-end engineer - content platform,"Boulder, CO",30d+,91K - 134K,other,not specified,,Boulder,CO,False,False,United States,30,91000.0,134000.0
+mochi health,3.5,software engineer iv (success factors - employee central payroll),"Lake Forest, IL",1d,92K - 124K,software engineer,senior,,Lake Forest,IL,False,False,United States,1,92000.0,124000.0
+jacobs,4.2,software engineer - digital data products,"Seattle, WA",10d,115K - 190K,software engineer,not specified,,Seattle,WA,False,False,United States,10,115000.0,190000.0
+boeing intelligence & analytics,4.2,"senior software engineer, frontend","San Francisco, CA",7d,94K - 139K,software engineer,senior,frontend,San Francisco,CA,False,False,United States,7,94000.0,139000.0
+netapp,4.0,software test engineer,"Kennedy Space Center, FL",30d+,140K - 216K,qa/test engineer,not specified,,Kennedy Space Center,FL,False,False,United States,30,140000.0,216000.0
+alphataraxia,3.9,entry level software engineer,"Annapolis Junction, MD",4d,90K - 103K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,4,90000.0,103000.0
+daqscribe solutions,4.7,software engineer - c/c++,"San Jose, CA",10d,95K - 170K,software engineer,not specified,c++,San Jose,CA,False,False,United States,10,95000.0,170000.0
+boeing,4.0,senior software engineer,"Washington, DC",30d+,343K - 637K,software engineer,senior,,Washington,DC,False,False,United States,30,343000.0,637000.0
+honeywell,4.8,software engineer,United States,10d,172K - 223K,software engineer,not specified,,United States,,False,False,United States,10,172000.0,223000.0
+uber,3.9,entry level support equipment software engineer,data not available,2d,105.00 - 115.00 Per Hour,software engineer,junior,,,,False,True,United States,2,,
+state street,3.4,"software engineer ii - .net, c#, azure","Phoenix, AZ",13d,93K - 186K,software engineer,junior,c#,Phoenix,AZ,False,False,United States,13,93000.0,186000.0
+"garmin international, inc.",3.9,senior software engineer - courier pricing,"New York, NY",1d,83K - 110K,software engineer,senior,,New York,NY,False,False,United States,1,83000.0,110000.0
+adobe,4.5,"software quality assurance engineer, assistance vice president","Quincy, MA",30d+,120K,software engineer,not specified,,Quincy,MA,False,False,United States,30,,
+honeywell,5.0,embedded software engineer,"Salem, OR",11d,88K - 140K,software engineer,not specified,,Salem,OR,False,False,United States,11,88000.0,140000.0
+honeywell,4.3,software development engineer,"Lehi, UT",20d,95K - 136K,software engineer,not specified,,Lehi,UT,False,False,United States,20,95000.0,136000.0
+johns hopkins university,4.8,software engineering/electrical engineering co-op - fall 2024 (us persons),"Mason, OH",27d,100K - 130K,software engineer,not specified,,Mason,OH,False,False,United States,27,100000.0,130000.0
+university of vermont,4.1,software engineer ii,"Mason, OH",5d,159K - 175K,software engineer,junior,,Mason,OH,False,False,United States,5,159000.0,175000.0
+federal reserve bank of dallas,3.5,software engineer,"Baltimore, MD",30d+,104K - 348K,software engineer,not specified,,Baltimore,MD,False,False,United States,30,104000.0,348000.0
+"grammarly, inc.",4.0,research software engineer,"Burlington, VT",4d,98K - 209K,software engineer,not specified,,Burlington,VT,False,False,United States,4,98000.0,209000.0
+scd information technology,3.9,software engineer,"Dallas, TX",23d,78K - 104K,software engineer,not specified,,Dallas,TX,False,False,United States,23,78000.0,104000.0
+clarity innovations,4.0,"software engineer, data engineering",United States,4d,100K,data engineer,not specified,,United States,,False,False,United States,4,,
+"akina, inc.",4.0,sr. software engineer,"Columbia, MD",1d,64K - 128K,software engineer,senior,,Columbia,MD,False,False,United States,1,64000.0,128000.0
+volvo group,3.9,software engineer - level 1 (rr) rrtn-8319,"Annapolis Junction, MD",30d+,117K - 216K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,30,117000.0,216000.0
+calspan corporation,3.7,software engineer - 3 (javascript/go/python),"Annapolis Junction, MD",3d,135K - 247K,software engineer,senior,"java, javascript, python",Annapolis Junction,MD,False,False,United States,3,135000.0,247000.0
+zoox,4.2,co-op: software (spring 2025),"Shippensburg, PA",11d,83K - 136K,other,not specified,,Shippensburg,PA,False,False,United States,11,83000.0,136000.0
+"garmin international, inc.",3.8,"associate software engineer, edwards air force base","Edwards AFB, CA",26d,85K - 130K,software engineer,not specified,,Edwards AFB,CA,False,False,United States,26,85000.0,130000.0
+root//source,3.5,software engineer - rider support tools,"Foster City, CA",30d+,99.00 Per Hour,software engineer,not specified,,Foster City,CA,False,False,United States,30,99000.0,0.0
+"hireio, inc.",3.6,senior software engineer - aviation databases,"Olathe, KS",30d,73K - 88K,software engineer,senior,,Olathe,KS,False,False,United States,30,73000.0,88000.0
+pac group llc,3.5,full stack java software engineer (hybrid),"Annapolis Junction, MD",12d,59K - 88K,software engineer,not specified,"fullstack, java",Annapolis Junction,MD,False,False,United States,12,59000.0,88000.0
+fanatics inc.,3.0,software engineer,"San Jose, CA",12d,105K - 146K,software engineer,not specified,,San Jose,CA,False,False,United States,12,105000.0,146000.0
+emergent software,4.1,software and systems engineer,"Suffolk, VA",30d+,70K - 125K,software engineer,not specified,,Suffolk,VA,False,False,United States,30,70000.0,125000.0
+harvard university,4.1,sr software engineer (back-end),"New York, NY",18d,62K - 98K,software engineer,senior,,New York,NY,False,False,United States,18,62000.0,98000.0
+zoox,4.9,software engineer (python),United States,4d,82K - 119K,software engineer,not specified,python,United States,,False,False,United States,4,82000.0,119000.0
+intone networks,3.8,"sr. software engineer, hbs online","Boston, MA",30d+,80K - 113K,software engineer,senior,,Boston,MA,False,False,United States,30,80000.0,113000.0
+cartiktech llc,4.1,software development engineer in test,"Foster City, CA",6d,67K - 106K,qa/test engineer,not specified,,Foster City,CA,False,False,United States,6,67000.0,106000.0
+abbott laboratories,3.9,software engineer,"Austin, TX",19d,144K - 200K,software engineer,not specified,,Austin,TX,False,False,United States,19,144000.0,200000.0
+prove,3.4,senior software engineer,"Chicago, IL",4d,129K - 224K,software engineer,senior,,Chicago,IL,False,False,United States,4,129000.0,224000.0
+fanatics inc.,3.5,software engineer ii,"Sylmar, CA",30d+,169K,software engineer,junior,,Sylmar,CA,False,False,United States,30,,
+schweitzer engineering laboratories,4.2,"senior software engineer, orchestration team","Chicago, IL",6d,45.66 - 54.99 Per Hour,software engineer,senior,,Chicago,IL,False,False,United States,6,,
+themis insight,3.9,software engineer iii,"New York, NY",30d+,130K - 270K,software engineer,senior,,New York,NY,False,False,United States,30,130000.0,270000.0
+world vision usa,4.9,associate software engineer - c# emphasis,"Pullman, WA",30d+,140K - 180K,software engineer,not specified,c#,Pullman,WA,False,False,United States,30,140000.0,180000.0
+rippling,3.7,jr. software engineer - hybrid/remote,Remote,2d,69K - 98K,software engineer,junior,,,,True,False,United States,2,69000.0,98000.0
+hop labs,4.2,software development engineer iii,United States,16d,59K - 86K,software engineer,senior,,United States,,False,False,United States,16,59000.0,86000.0
+"hawaiian airlines, inc.",3.2,staff software engineer - documents,United States,2d,80K - 123K,software engineer,not specified,,United States,,False,False,United States,2,80000.0,123000.0
+netapp,3.9,ml software engineer,Remote,30d+,105K - 152K,software engineer,not specified,,,,True,False,United States,30,105000.0,152000.0
+quantum systems inc,4.1,"software developer engineer, it technical operations","Honolulu, HI",10d,135K - 175K,software engineer,not specified,,Honolulu,HI,False,False,United States,10,135000.0,175000.0
+salesforce,3.9,software engineer,Remote,10d,154K - 279K,software engineer,not specified,,,,True,False,United States,10,154000.0,279000.0
+visa,3.7,software engineer lead,"Moorpark, CA",12d,86K - 145K,software engineer,leadership,,Moorpark,CA,False,False,United States,12,86000.0,145000.0
+honeywell,3.6,full-stack software engineer – lmts / pmts,"San Francisco, CA",30d+,104K - 348K,software engineer,not specified,,San Francisco,CA,False,False,United States,30,104000.0,348000.0
+oliver wyman group,3.4,software engineer – senior consultant level - tink,"Austin, TX",4d,76K - 155K,software engineer,senior,,Austin,TX,False,False,United States,4,76000.0,155000.0
+nvidia,2.5,software engineer i,"Richardson, TX",30d+,83K - 114K,software engineer,junior,,Richardson,TX,False,False,United States,30,83000.0,114000.0
+morgan stanley,4.4,nera associate software engineer,"White Plains, NY",30d+,155K - 221K,software engineer,not specified,,White Plains,NY,False,False,United States,30,155000.0,221000.0
+amex,4.5,system software engineer – autonomous vehicles platform,"Santa Clara, CA",30d+,100K - 200K,software engineer,not specified,,Santa Clara,CA,False,False,United States,30,100000.0,200000.0
+multi state lottery association,4.0,"associate, python / perl dev","Alpharetta, GA",10d,83K - 110K,other,not specified,python,Alpharetta,GA,False,False,United States,10,83000.0,110000.0
+eog resources,3.4,"backend software engineer, digital banking-payments","Phoenix, AZ",6d,99K,software engineer,not specified,backend,Phoenix,AZ,False,False,United States,6,,
+baxter,3.7,senior software engineer,"Johnston, IA",11d,129K - 207K,software engineer,senior,,Johnston,IA,False,False,United States,11,129000.0,207000.0
+afterpay,3.7,software engineer i,"Houston, TX",30d+,161K - 215K,software engineer,junior,,Houston,TX,False,False,United States,30,161000.0,215000.0
+u.s. bank national association,4.0,senior backend software engineer (hybrid),"Bellevue, WA",30d+,93K - 132K,software engineer,senior,backend,Bellevue,WA,False,False,United States,30,93000.0,132000.0
+geon technologies,3.8,"software engineer - pubsub, cash app","San Francisco, CA",1d,95K - 115K,software engineer,not specified,,San Francisco,CA,False,False,United States,1,95000.0,115000.0
+intel,5.0,"software engineer 2 - mainframe (cobol, jcl, vsam)","Brookfield, WI",12d,310K - 465K,software engineer,junior,,Brookfield,WI,False,False,United States,12,310000.0,465000.0
+tdi technologies,4.1,software engineer,"Annapolis Junction, MD",30d+,117K - 160K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,30,117000.0,160000.0
+daikin comfort technologies mfg lp,4.3,software engineer / simulation - virtual prototyping,"San Jose, CA",21d,213K - 293K,software engineer,not specified,,San Jose,CA,False,False,United States,21,213000.0,293000.0
+intone networks,4.4,c# software engineer,Pennsylvania,6d,87K - 124K,software engineer,not specified,c#,Pennsylvania,,False,False,United States,6,87000.0,124000.0
+intone networks,3.6,software engineer 3,"Chatsworth, CA",4d,163K - 294K,software engineer,senior,,Chatsworth,CA,False,False,United States,4,163000.0,294000.0
+wise,3.6,software engineer in test,"Westlake, TX",25d,195K - 230K,software engineer,not specified,,Westlake,TX,False,False,United States,25,195000.0,230000.0
+"garmin international, inc.",3.1,jr cloud engineer,"Phoenix, AZ",9d,70K - 90K,cloud engineer,junior,cloud,Phoenix,AZ,False,False,United States,9,70000.0,90000.0
+nyla technology solutions,4.2,"senior software engineer ii, wise account","Austin, TX",19d,86K - 109K,software engineer,senior,,Austin,TX,False,False,United States,19,86000.0,109000.0
+wellington management,3.0,senior .net software engineer,"Cary, NC",4d,79K - 124K,software engineer,senior,,Cary,NC,False,False,United States,4,79000.0,124000.0
+synergy ecp,3.5,software engineer,"Annapolis Junction, MD",30d+,122K - 147K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,30,122000.0,147000.0
+costco wholesale,3.1,senior software engineer,"Boston, MA",30d+,110K - 154K,software engineer,senior,,Boston,MA,False,False,United States,30,110000.0,154000.0
+"vizient, inc.",4.5,software engineer,"Annapolis Junction, MD",30d+,119K - 142K,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,30,119000.0,142000.0
+leidos,3.7,software engineer - it sustainability,"Seattle, WA",17d,120K - 150K,software engineer,not specified,,Seattle,WA,False,False,United States,17,120000.0,150000.0
+noblis,3.7,senior software engineer,"Irving, TX",30d+,85K - 131K,software engineer,senior,,Irving,TX,False,False,United States,30,85000.0,131000.0
+elevi associates,4.7,junior software engineer - panama shift!,"Annapolis Junction, MD",30d+,60K - 80K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,30,60000.0,80000.0
+ascending,4.0,software solutions engineer – multiple levels,"Oklahoma City, OK",30d+,112K - 177K,software engineer,not specified,,Oklahoma City,OK,False,False,United States,30,112000.0,177000.0
+trellint,4.0,sr software engineer,"Annapolis Junction, MD",4d,90K - 104K,software engineer,senior,,Annapolis Junction,MD,False,False,United States,4,90000.0,104000.0
+synergy ecp,4.1,cloud software engineer,"Fairfax, VA",30d+,79K - 159K,software engineer,not specified,cloud,Fairfax,VA,False,False,United States,30,79000.0,159000.0
+lockheed martin,3.6,r&d software engineer ii,Maryland,11d,195K - 245K,software engineer,junior,,Maryland,,False,False,United States,11,195000.0,245000.0
+"trusted space, inc.",4.4,software engineer 1,"Columbia, MD",30d+,66K - 112K,software engineer,junior,,Columbia,MD,False,False,United States,30,66000.0,112000.0
+state street,4.2,software engineer,"Highlands Ranch, CO",2d,145K - 190K,software engineer,not specified,,Highlands Ranch,CO,False,False,United States,2,145000.0,190000.0
+"availity, llc.",4.0,software engineer,Colorado,16d,86K - 127K,software engineer,not specified,,Colorado,,False,False,United States,16,86000.0,127000.0
+borgwarner,1.0,"software development engineer, officer, onsite","Quincy, MA",3d,120K - 140K,software engineer,not specified,,Quincy,MA,False,False,United States,3,120000.0,140000.0
+ford motor company,4.1,node.js/kotlin software engineer iv,"Jacksonville, FL",24d,61K - 89K,software engineer,senior,,Jacksonville,FL,False,False,United States,24,61000.0,89000.0
+forterra,3.9,software resident engineer,"Auburn Hills, MI",6d,68K - 102K,software engineer,not specified,,Auburn Hills,MI,False,False,United States,6,68000.0,102000.0
+epsilon,3.1,software engineer,"Dearborn, MI",5d,79K - 125K,software engineer,not specified,,Dearborn,MI,False,False,United States,5,79000.0,125000.0
+bytedance,3.3,perception software engineer - ml ops,Remote,30d+,100K - 155K,software engineer,not specified,,,,True,False,United States,30,100000.0,155000.0
+logistics management institute,3.7,senior front end software engineer,"Chicago, IL",10d,94K - 122K,software engineer,senior,frontend,Chicago,IL,False,False,United States,10,94000.0,122000.0
+"hottinger, bruel & kjaer",3.9,software engineer (data security-us) - 2025 start (bs/ms),"San Jose, CA",6d,60.00 - 72.00 Per Hour,software engineer,not specified,,San Jose,CA,False,False,United States,6,,
+sirius xm,3.6,cloud engineer,Remote,3d,105K - 125K,cloud engineer,not specified,cloud,,,True,False,United States,3,105000.0,125000.0
+warner bros. discovery,3.8,custom software engineer,"Pompano Beach, FL",30d+,103K - 147K,software engineer,not specified,,Pompano Beach,FL,False,False,United States,30,103000.0,147000.0
+peloton,3.3,"senior software engineer - python, celery, redis","Oakland, CA",3d,81K - 118K,software engineer,senior,python,Oakland,CA,False,False,United States,3,81000.0,118000.0
+movius interactive corporation,3.4,"vp, software engineering",United States,6d,122K - 172K,software engineer,not specified,,United States,,False,False,United States,6,122000.0,172000.0
+accenture federal services,4.0,site reliability engineer,United States,6d,108K - 216K,other,not specified,,United States,,False,False,United States,6,108000.0,216000.0
+corteva,3.9,software engineer- backend,"Fremont, CA",19d,122K - 184K,software engineer,not specified,backend,Fremont,CA,False,False,United States,19,122000.0,184000.0
+intrafi network,3.3,software engineer,"Elkridge, MD",3d,121K - 181K,software engineer,not specified,,Elkridge,MD,False,False,United States,3,121000.0,181000.0
+pseg,3.9,software engineer ii,"Johnston, IA",9d,78K - 133K,software engineer,junior,,Johnston,IA,False,False,United States,9,78000.0,133000.0
+ryzlink dba chuwa america,3.1,senior software engineer,"Arlington, VA",13d,75K,software engineer,senior,,Arlington,VA,False,False,United States,13,,
+trane technologies,3.6,software engineer,"Bethpage, NY",10d,86K - 139K,software engineer,not specified,,Bethpage,NY,False,False,United States,10,86000.0,139000.0
+discord,4.3,software programmer,"Santa Clara, CA",5d,88K - 173K,other,not specified,,Santa Clara,CA,False,False,United States,5,88000.0,173000.0
+tesla,4.2,software engineer - innovation,"Saint Paul, MN",10d,182K - 244K,software engineer,not specified,,Saint Paul,MN,False,False,United States,10,182000.0,244000.0
+microsoft,4.0,"software engineer, ads (quests)","San Francisco, CA",18d,124K - 155K,software engineer,not specified,,San Francisco,CA,False,False,United States,18,124000.0,155000.0
+first american fidata not availablecial corporation,3.7,"staff software engineer, backend, factory software","Fremont, CA",4d,94K - 129K,software engineer,not specified,backend,Fremont,CA,False,False,United States,4,94000.0,129000.0
+intrafi network,3.6,software engineer 2,"Redmond, WA",2d,72.84 - 80.93 Per Hour,software engineer,junior,,Redmond,WA,False,False,United States,2,,
+collins aerospace,3.5,software engineer ii (hybrid or remote possible),"Idaho Falls, ID",1d,130K - 165K,software engineer,junior,,Idaho Falls,ID,False,False,United States,1,130000.0,165000.0
+roche,4.3,software engineer (customer-facing applications),"Arlington, VA",10d,65K - 101K,software engineer,not specified,,Arlington,VA,False,False,United States,10,65000.0,101000.0
+qualtrics,3.0,software engineer,"Lenexa, KS",15d,129K - 224K,software engineer,not specified,,Lenexa,KS,False,False,United States,15,129000.0,224000.0
+edward rose & sons,4.4,senior software engineer - digital pathology,"Santa Clara, CA",2d,161K - 243K,software engineer,senior,,Santa Clara,CA,False,False,United States,2,161000.0,243000.0
+michelin,5.0,senior software development engineer - data engineering team,"Seattle, WA",8d,76K - 107K,data engineer,senior,,Seattle,WA,False,False,United States,8,76000.0,107000.0
+"garmin international, inc.",4.7,yardi enterprise software support engineer - hybrid remote,"Bloomfield Hills, MI",11d,70K - 85K,software engineer,not specified,,Bloomfield Hills,MI,False,False,United States,11,70000.0,85000.0
+smart ims,4.3,software engineer(entry/experienced) spa,"Spartanburg, SC",26d,75K - 150K,software engineer,junior,,Spartanburg,SC,False,False,United States,26,75000.0,150000.0
+wipro,3.9,embedded c / linux software engineer - marine,"Olathe, KS",23d,110K - 150K,software engineer,not specified,,Olathe,KS,False,False,United States,23,110000.0,150000.0
+harley-davidson,3.8,software engineer 2,United States,30d+,98K - 147K,software engineer,junior,,United States,,False,False,United States,30,98000.0,147000.0
+"vizio, inc.",3.4,php engineer,"Tampa, FL",30d+,74K - 92K,other,not specified,,Tampa,FL,False,False,United States,30,74000.0,92000.0
+geneva technologies inc.,3.4,associate design engineer - software v&v,"Wauwatosa, WI",30d+,8K - 12K,software engineer,senior,,Wauwatosa,WI,False,False,United States,30,8000.0,12000.0
+electronx,4.2,senior software engineer,"Dallas, TX",5d,90K - 131K,software engineer,senior,,Dallas,TX,False,False,United States,5,90000.0,131000.0
+camelot integrated solutions inc.,3.7,software engineer,"Monument, CO",4d,120K - 150K,software engineer,not specified,,Monument,CO,False,False,United States,4,120000.0,150000.0
+"jrc integrated systems, llc",3.7,experienced: core infrastructure software engineer,Remote,3d,126K - 237K,software engineer,not specified,,,,True,False,United States,3,126000.0,237000.0
+sabre engineering,3.5,software developer (job code 001),"Houston, TX",30d+,50K - 78K,software engineer,not specified,,Houston,TX,False,False,United States,30,50000.0,78000.0
+thermoflow,4.2,software engineer,"Dahlgren, VA",30d+,94K - 117K,software engineer,not specified,,Dahlgren,VA,False,False,United States,30,94000.0,117000.0
+fanatics inc.,3.5,jr. software engineer,"Columbia, MD",2d,185K - 200K,software engineer,junior,,Columbia,MD,False,False,United States,2,185000.0,200000.0
+"twitch interactive, inc.",3.5,"computer science, software engineers, programmers","Jacksonville, FL",30d+,103K - 149K,software engineer,not specified,,Jacksonville,FL,False,False,United States,30,103000.0,149000.0
+adtran,3.4,sr software engineer,"New York, NY",30d+,109K - 141K,software engineer,senior,,New York,NY,False,False,United States,30,109000.0,141000.0
+oncorre,3.8,software development engineer,"Seattle, WA",5d,76K - 116K,software engineer,not specified,,Seattle,WA,False,False,United States,5,76000.0,116000.0
+nmg technology services,3.8,senior software engineer,Oregon,5d,37K - 82K,software engineer,senior,,Oregon,,False,False,United States,5,37000.0,82000.0
+captivation software,3.7,software engineer,"Bridgewater, NJ",30d+,129K - 159K,software engineer,not specified,,Bridgewater,NJ,False,False,United States,30,129000.0,159000.0
+invisible technologies,3.7,software engineer,"Brooklyn, NY",30d+,80K - 111K,software engineer,not specified,,Brooklyn,NY,False,False,United States,30,80000.0,111000.0
+metas solutions,4.1,software engineer 2 - devops,"Annapolis Junction, MD",30d+,95K - 133K,software engineer,junior,devops,Annapolis Junction,MD,False,False,United States,30,95000.0,133000.0
+"gap solutions, inc.",4.0,senior software engineer - platform,Remote,16d,130K - 140K,software engineer,senior,,,,True,False,United States,16,130000.0,140000.0
+independent software,4.2,software quality assurance engineer & tester,"Atlanta, GA",2d,81K - 118K,software engineer,not specified,,Atlanta,GA,False,False,United States,2,81000.0,118000.0
+interimage,4.1,software qa engineer and tester,"Atlanta, GA",24h,120K - 150K,qa/test engineer,not specified,,Atlanta,GA,False,False,United States,24,120000.0,150000.0
+tickets.com,5.0,"software integration engineer, junior","Fort Meade, MD",30d+,180K - 260K,software engineer,junior,,Fort Meade,MD,False,False,United States,30,180000.0,260000.0
+adobe,4.9,2251 java & nifi software engineer,"Annapolis Junction, MD",18d,86K - 111K,software engineer,not specified,java,Annapolis Junction,MD,False,False,United States,18,86000.0,111000.0
+embecta,3.3,senior software engineer,"Boulder, CO",6d,40.00 - 45.00 Per Hour,software engineer,senior,,Boulder,CO,False,False,United States,6,,
+tesla,4.2,senior software development engineer,"San Jose, CA",11d,74K - 109K,software engineer,senior,,San Jose,CA,False,False,United States,11,74000.0,109000.0
+cvs health,4.1,"senior fullstack software engineer (hybrid - andover, ma)","Andover, MA",6d,108K - 116K,software engineer,senior,,Andover,MA,False,False,United States,6,108000.0,116000.0
+space systems integration,3.0,"sr. software engineer, backend, factory software","Fremont, CA",4d,103K - 146K,software engineer,senior,backend,Fremont,CA,False,False,United States,4,103000.0,146000.0
+cash app,4.5,full-stack software developer,"Hartford, CT",17d,89K - 128K,software engineer,not specified,,Hartford,CT,False,False,United States,17,89000.0,128000.0
+annapurna labs (u.s.) inc.,5.0,software engineer,"Albuquerque, NM",30d+,84K,software engineer,not specified,,Albuquerque,NM,False,False,United States,30,,
+index engines inc.,3.9,"software engineer, incentive","Seattle, WA",3d,144K - 198K,software engineer,not specified,,Seattle,WA,False,False,United States,3,144000.0,198000.0
+ford motor company,4.4,"software dev engineer - machine learning apps, accelerator","Cupertino, CA",3d,160K - 321K,software engineer,not specified,,Cupertino,CA,False,False,United States,3,160000.0,321000.0
+q9software,4.1,react software engineer,Colorado,30d+,97K - 155K,software engineer,not specified,,Colorado,,False,False,United States,30,97000.0,155000.0
+squarespace,3.8,software engineer,"Dearborn, MI",30d+,120K - 290K,software engineer,not specified,,Dearborn,MI,False,False,United States,30,120000.0,290000.0
+"advanced micro devices, inc",3.4,software developer,"Germantown, MD",30d+,87K - 126K,software engineer,not specified,,Germantown,MD,False,False,United States,30,87000.0,126000.0
+interimage,3.7,"senior software engineer, user platform (java)",United States,5d,129K - 224K,software engineer,senior,java,United States,,False,False,United States,5,129000.0,224000.0
+"flow systems, inc",3.4,software development engineer - ai/ml,"San Jose, CA",30d+,103K - 141K,software engineer,not specified,,San Jose,CA,False,False,United States,30,103000.0,141000.0
+openai,4.6,2128 software engineer 1 (java focused),"Annapolis Junction, MD",18d,135K - 155K,software engineer,junior,java,Annapolis Junction,MD,False,False,United States,18,135000.0,155000.0
+teradyne,3.8,software engineer,"Berthoud, CO",3d,65K - 118K,software engineer,not specified,,Berthoud,CO,False,False,United States,3,65000.0,118000.0
+meta,2.9,"senior software engineer, search evaluations","San Francisco, CA",6d,80K - 94K,software engineer,senior,,San Francisco,CA,False,False,United States,6,80000.0,94000.0
+yellow duck technologies inc.,4.3,software performance engineer,"North Reading, MA",18d,104K - 348K,software engineer,not specified,,North Reading,MA,False,False,United States,18,104000.0,348000.0
+workday,4.0,software engineer - camera (technical leadership),"Redmond, WA",3d,300K - 450K,software engineer,leadership,,Redmond,WA,False,False,United States,3,300000.0,450000.0
+ops tech alliance,4.2,cleared junior software engineer,"Annapolis Junction, MD",15d,90K - 126K,software engineer,junior,,Annapolis Junction,MD,False,False,United States,15,90000.0,126000.0
+cdk global,3.7,principal software engineer,"Seattle, WA",30d+,78K - 102K,software engineer,leadership,,Seattle,WA,False,False,United States,30,78000.0,102000.0
+iab solutions llc,3.7,software engineer level 3,"Fort Meade, MD",30d+,110K - 154K,software engineer,senior,,Fort Meade,MD,False,False,United States,30,110000.0,154000.0
+general assembly,4.2,associate software engineer,"Austin, TX",5d,87K - 171K,software engineer,not specified,,Austin,TX,False,False,United States,5,87000.0,171000.0
+delta dental ins.,4.3,senior software engineer,Whitehall Township,11d,125K - 160K,software engineer,senior,,Whitehall Township,,False,False,United States,11,125000.0,160000.0
+cotiviti,4.4,software engineer instructor,"Denver, CO",30d+,83K - 124K,software engineer,not specified,,Denver,CO,False,False,United States,30,83000.0,124000.0
+boeing,4.1,senior software engineer,"Alpharetta, GA",1d,74K - 98K,software engineer,senior,,Alpharetta,GA,False,False,United States,1,74000.0,98000.0
+braum's,3.9,sr. devops engineer,Remote,2d,102K - 159K,devops engineer,senior,devops,,,True,False,United States,2,102000.0,159000.0
+cummings aerospace inc,2.5,software engineer - mid level,"Annapolis Junction, MD",17d,115K - 165K,software engineer,mid-level,,Annapolis Junction,MD,False,False,United States,17,115000.0,165000.0
+t.m. bier & associates,4.4,senior software engineer,"Oklahoma City, OK",6d,108K - 216K,software engineer,senior,,Oklahoma City,OK,False,False,United States,6,108000.0,216000.0
+zelis,3.9,software engineer-mid level,"Largo, FL",3d,90K - 145K,software engineer,mid-level,,Largo,FL,False,False,United States,3,90000.0,145000.0
+tiktok,3.7,software engineer (bms),United States,9d,68K - 104K,software engineer,not specified,,United States,,False,False,United States,9,68000.0,104000.0
+eaton,3.5,senior software engineer - c# & rust,New Jersey,3d,72K - 108K,software engineer,senior,c#,New Jersey,,False,False,United States,3,72000.0,108000.0
+cvs health,3.0,"frontend software engineer graduate, tiktok infrastructure - 2025 start (bs/ms)","San Jose, CA",10d,69K - 120K,software engineer,not specified,frontend,San Jose,CA,False,False,United States,10,69000.0,120000.0
+zoox,3.7,eaton development program: engineering technology - software,"Peachtree City, GA",5d,72K - 127K,software engineer,not specified,,Peachtree City,GA,False,False,United States,5,72000.0,127000.0
+radiance technologies,3.9,software development engineer,"Hartford, CT",30d+,158K - 205K,software engineer,not specified,,Hartford,CT,False,False,United States,30,158000.0,205000.0
+boston consulting group,4.2,senior fullstack software engineer - perception metrics platform,"San Francisco, CA",19d,100K - 160K,software engineer,senior,,San Francisco,CA,False,False,United States,19,100000.0,160000.0
+sage,3.5,full stack software engineer,"Beavercreek, OH",13d,50.00 - 54.00 Per Hour,software engineer,not specified,fullstack,Beavercreek,OH,False,False,United States,13,,
+neurable,4.4,"ai software engineer, campus, united states - bcg x","Los Angeles, CA",4d,130K - 210K,software engineer,not specified,,Los Angeles,CA,False,False,United States,4,130000.0,210000.0
+asm international,3.4,"software engineer - c#, c++","Lawrenceville, GA",30d+,115K - 159K,software engineer,not specified,"c#, c++",Lawrenceville,GA,False,False,United States,30,115000.0,159000.0
+galvion,4.0,senior software engineer,"Boston, MA",9d,138K - 192K,software engineer,senior,,Boston,MA,False,False,United States,9,138000.0,192000.0
+prophet software,3.6,field software support engineer,"Hillsboro, OR",30d+,89K - 129K,software engineer,not specified,,Hillsboro,OR,False,False,United States,30,89000.0,129000.0
+ansira,4.1,associate software engineer (on-site),"Portsmouth, NH",1d,130K - 150K,software engineer,not specified,,Portsmouth,NH,False,False,United States,1,130000.0,150000.0
+elder research,4.7,software developer,"Westlake Village, CA",16d,177K - 251K,software engineer,not specified,,Westlake Village,CA,False,False,United States,16,177000.0,251000.0
+3 reasons consulting,3.9,full stack software engineer,Washington State,11d,100K - 158K,software engineer,not specified,fullstack,Washington State,,False,False,United States,11,100000.0,158000.0
+"ab2 consulting, inc.",3.2,backend software engineer,"Fort George G Meade, MD",30d+,168K - 253K,software engineer,not specified,backend,Fort George G Meade,MD,False,False,United States,30,168000.0,253000.0
+university of maryland,4.1,software engineer ii,"San Diego, CA",30d+,167K - 296K,software engineer,junior,,San Diego,CA,False,False,United States,30,167000.0,296000.0
+cpi card group,3.6,"software development engineer in test (sdet) / okemos, mi (hybrid)","Okemos, MI",10d,136K - 200K,qa/test engineer,not specified,,Okemos,MI,False,False,United States,10,136000.0,200000.0
+simplot,3.8,research software and data engineer,"College Park, MD",5d,35.00 - 50.00 Per Hour,data engineer,not specified,,College Park,MD,False,False,United States,5,,
+walmart advanced systems and robotics,4.1,software process engineer,"Fort Wayne, IN",30d+,118K - 142K,software engineer,not specified,,Fort Wayne,IN,False,False,United States,30,118000.0,142000.0
+fanatics inc.,3.5,software engineer,"Boise, ID",12d,109K - 219K,software engineer,not specified,,Boise,ID,False,False,United States,12,109000.0,219000.0
+ge healthcare,4.0,senior software engineer – emulation,"Andover, MA",25d,64K - 113K,software engineer,senior,,Andover,MA,False,False,United States,25,64000.0,113000.0
+norc at the university of chicago,4.1,"software engineer ii, android",United States,30d+,104K - 166K,software engineer,junior,,United States,,False,False,United States,30,104000.0,166000.0
+wssc water,5.0,software engineer,"Washington, DC",30d+,181K - 212K,software engineer,not specified,,Washington,DC,False,False,United States,30,181000.0,212000.0
+rvo health,4.0,cloud engineer,"Chicago, IL",5d,91K - 119K,cloud engineer,not specified,cloud,Chicago,IL,False,False,United States,5,91000.0,119000.0
+wisenbaker builder services,3.8,"engineering software administrator (e-builder, primavera p6)","Laurel, MD",2d,70K - 115K,software engineer,not specified,,Laurel,MD,False,False,United States,2,70000.0,115000.0
+optum,3.0,2025 early career program: software engineering,"Charlotte, NC",4d,124K - 211K,software engineer,not specified,,Charlotte,NC,False,False,United States,4,124000.0,211000.0
+sofi,3.9,cad software engineer (cabinets),"Hillsboro, TX",12d,161K - 253K,software engineer,not specified,,Hillsboro,TX,False,False,United States,12,161000.0,253000.0
+fanatics inc.,4.1,"senior ai/ml software engineer, java - remote","Eden Prairie, MN",3d,90K - 140K,software engineer,senior,java,Eden Prairie,MN,False,False,United States,3,90000.0,140000.0
+micron,3.4,"staff software engineer, at work","Seattle, WA",2d,123K - 175K,software engineer,not specified,,Seattle,WA,False,False,United States,2,123000.0,175000.0
+boeing,3.5,software engineer ii,"New York, NY",18d,81K - 131K,software engineer,junior,,New York,NY,False,False,United States,18,81000.0,131000.0
+bellelynn,3.6,it software engineer,"Boise, ID",30d+,77K - 104K,software engineer,not specified,,Boise,ID,False,False,United States,30,77000.0,104000.0
+bertrandt,3.8,software engineer 3 - front end (contract),"El Segundo, CA",3d,125K - 208K,software engineer,senior,frontend,El Segundo,CA,False,False,United States,3,125000.0,208000.0
+amazon.com services llc,3.7,sr software engineer,"Columbia, MD",3d,80K - 113K,software engineer,senior,,Columbia,MD,False,False,United States,3,80000.0,113000.0
+salesforce,4.0,automotive software engineer,"Sterling Heights, MI",30d+,129K - 224K,software engineer,not specified,,Sterling Heights,MI,False,False,United States,30,129000.0,224000.0
+ford motor company,4.2,"front end engineer, sponsored brands - fixed","New York, NY",4d,92K - 133K,other,not specified,frontend,New York,NY,False,False,United States,4,92000.0,133000.0
+eai technologies,3.8,software engineering lmts,"Bellevue, WA",4d,105K - 130K,software engineer,not specified,,Bellevue,WA,False,False,United States,4,105000.0,130000.0
+mahlet,4.1,software engineer - global order bank,"Dearborn, MI",16d,62K - 89K,software engineer,not specified,,Dearborn,MI,False,False,United States,16,62000.0,89000.0
+new river systems corporation,4.4,physics/math graduate - entry level software developer,"Vienna, VA",30d+,110K - 145K,software engineer,junior,,Vienna,VA,False,False,United States,30,110000.0,145000.0
+rev robotics,4.6,software engineer,"Burtonsville, MD",16d,116K - 128K,software engineer,not specified,,Burtonsville,MD,False,False,United States,16,116000.0,128000.0
+"intelligenesis, llc",4.1,onestream software systems engineer,United States,17d,111K - 184K,software engineer,not specified,,United States,,False,False,United States,17,111000.0,184000.0
+enersys,3.6,senior software engineer,"Carrollton, TX",5d,138K - 297K,software engineer,senior,,Carrollton,TX,False,False,United States,5,138000.0,297000.0
+university of washington,4.7,full stack software engineer level 1,"Arlington, VA",30d+,109K - 145K,software engineer,junior,fullstack,Arlington,VA,False,False,United States,30,109000.0,145000.0
+hewlett packard,3.8,product engineer i,"Longmont, CO",24h,97K - 133K,other,junior,,Longmont,CO,False,False,United States,24,97000.0,133000.0
+movius interactive corporation,3.4,software engineer,"Seattle, WA",30d+,100K - 145K,software engineer,not specified,,Seattle,WA,False,False,United States,30,100000.0,145000.0
+noblis,4.1,cloud software development engineer,"Fort Collins, CO",11d,86K - 129K,software engineer,not specified,cloud,Fort Collins,CO,False,False,United States,11,86000.0,129000.0
+cedent,3.7,software engineer - backend voice,"Fremont, CA",1d,53K - 96K,software engineer,not specified,backend,Fremont,CA,False,False,United States,1,53000.0,96000.0
+bank of america,3.5,software engineer (all levels),"McLean, VA",30d+,75K - 131K,software engineer,not specified,,McLean,VA,False,False,United States,30,75000.0,131000.0
+linquest corporation,4.3,"software system engineer (c++, java background)","Warren, MI",30d+,119K - 173K,software engineer,not specified,"c++, java",Warren,MI,False,False,United States,30,119000.0,173000.0
+hewlett packard,3.5,software engineer ii,"Charlotte, NC",3d,97K - 126K,software engineer,junior,,Charlotte,NC,False,False,United States,3,97000.0,126000.0
+oracle,4.0,ground software engineer,Virginia,11d,84K - 106K,software engineer,not specified,,Virginia,,False,False,United States,11,84000.0,106000.0
+federal reserve bank of boston,4.1,experienced front-end engineer,"Fort Collins, CO",14d,81K - 109K,other,not specified,,Fort Collins,CO,False,False,United States,14,81000.0,109000.0
+collins aerospace,3.5,software developer,"Austin, TX",2d,166K - 228K,software engineer,not specified,,Austin,TX,False,False,United States,2,166000.0,228000.0
+apriva,3.9,full-stack software engineer – digital money and payments research & development,"Boston, MA",30d+,154K - 279K,software engineer,not specified,,Boston,MA,False,False,United States,30,154000.0,279000.0
+asec,3.9,software engineering co-op (summer/fall 2025) (onsite),"Cedar Rapids, IA",2d,115K - 154K,software engineer,not specified,,Cedar Rapids,IA,False,False,United States,2,115000.0,154000.0
+t. rowe price,4.6,software engineer iv,"Phoenix, AZ",27d,66K - 109K,software engineer,senior,,Phoenix,AZ,False,False,United States,27,66000.0,109000.0
+s&s activewear llc,3.8,software engineer,"Patuxent River, MD",16d,116K - 204K,software engineer,not specified,,Patuxent River,MD,False,False,United States,16,116000.0,204000.0
+peterson technologies,4.0,software engineer,"Owings Mills, MD",23d,102K - 150K,software engineer,not specified,,Owings Mills,MD,False,False,United States,23,102000.0,150000.0
+"longpath technologies, inc.",3.7,senior software engineer (hybrid available),"Bolingbrook, IL",22d,139K - 184K,software engineer,senior,,Bolingbrook,IL,False,False,United States,22,139000.0,184000.0
+gradient,4.0,mid level software engineer,"Hanover, MD",30d+,94K - 118K,software engineer,mid-level,,Hanover,MD,False,False,United States,30,94000.0,118000.0
+amazon.com services llc,4.2,senior software engineer,"Boulder, CO",18d,94K - 136K,software engineer,senior,,Boulder,CO,False,False,United States,18,94000.0,136000.0
+envisn incorporated,3.7,senior software engineer,"Burlingame, CA",2d,126K - 265K,software engineer,senior,,Burlingame,CA,False,False,United States,2,126000.0,265000.0
+intersoft data labs,3.5,"software development engineer ii, sort tech","Tempe, AZ",3d,100K - 135K,software engineer,junior,,Tempe,AZ,False,False,United States,3,100000.0,135000.0
+digital insight printing,4.1,software quality assurance (tester) engineer,"Indianola, PA",9d,175K - 209K,software engineer,not specified,,Indianola,PA,False,False,United States,9,175000.0,209000.0
+teradyne,3.6,software engineer (onsite),"Columbia, MD",25d,248K - 385K,software engineer,not specified,,Columbia,MD,False,False,United States,25,248000.0,385000.0
+beshenich muir & associates llc,4.6,magento developer,Remote,24h,91K - 152K,other,not specified,,,,True,False,United States,24,91000.0,152000.0
+powermind solutions,4.6,software machine learning engineer,"North Reading, MA",3d,129K - 193K,machine learning engineer,not specified,,North Reading,MA,False,False,United States,3,129000.0,193000.0
+plaid,3.7,software systems engineer,"Fort Belvoir, VA",30d+,98K - 135K,software engineer,not specified,,Fort Belvoir,VA,False,False,United States,30,98000.0,135000.0
+"grammarly, inc.",3.2,software developer,Georgia,4d,114K - 149K,software engineer,not specified,,Georgia,,False,False,United States,4,114000.0,149000.0
+shipperhq,4.0,software engineer - credit,"San Francisco, CA",30d+,130K - 236K,software engineer,not specified,,San Francisco,CA,False,False,United States,30,130000.0,236000.0
+bryn neil,3.6,"software engineer, back-end",United States,30d+,144K - 288K,software engineer,not specified,,United States,,False,False,United States,30,144000.0,288000.0
+dcs corp,3.9,sr. software engineer - site reliability,"Austin, TX",16d,49K - 84K,software engineer,senior,,Austin,TX,False,False,United States,16,49000.0,84000.0
+bank of america,3.4,cleared software engineer,"Denver, CO",3d,129K - 224K,software engineer,not specified,,Denver,CO,False,False,United States,3,129000.0,224000.0
+"amazon web services, inc.",3.8,software developer,Maryland,3d,118K - 184K,software engineer,not specified,,Maryland,,False,False,United States,3,118000.0,184000.0
+"bio-rad laboratories, inc.",4.1,data center services - software engineer,"Plano, TX",8d,86K - 116K,software engineer,not specified,,Plano,TX,False,False,United States,8,86000.0,116000.0
+"audacy, inc.",4.8,"software dev engineer, l5 , sfsc integrations","Seattle, WA",23d,124K - 234K,software engineer,not specified,,Seattle,WA,False,False,United States,23,124000.0,234000.0
+cyberkorp,4.2,software developer in test,"Hercules, CA",10d,80K - 119K,software engineer,not specified,,Hercules,CA,False,False,United States,10,80000.0,119000.0
+leidos,3.5,senior software engineer,"Denver, CO",4d,88K,software engineer,senior,,Denver,CO,False,False,United States,4,,
+boeing intelligence & analytics,3.4,"software developers – multiple openings – bloomingdale, il",United States,30d+,55K,software engineer,not specified,,United States,,False,False,United States,30,,
+tesla,4.1,junior java software engineer,"Fort Meade, MD",30d+,234K - 284K,software engineer,junior,java,Fort Meade,MD,False,False,United States,30,234000.0,284000.0
+openai,3.1,apprentice etl software engineer,"Elkridge, MD",30d+,160K - 385K,software engineer,not specified,,Elkridge,MD,False,False,United States,30,160000.0,385000.0
+ncr atleos,3.9,"software engineer, tool & infrastructure, reliability & test","Palo Alto, CA",1d,222K,software engineer,not specified,,Palo Alto,CA,False,False,United States,1,,
+electronic warfare associates,3.8,"software engineer, engineering acceleration","San Francisco, CA",5d,82K - 118K,software engineer,not specified,,San Francisco,CA,False,False,United States,5,82000.0,118000.0
+"billgo, inc.",3.3,atm software engineer (level iii),"Frisco, TX",30d+,69K - 107K,software engineer,senior,,Frisco,TX,False,False,United States,30,69000.0,107000.0
+genesys,3.6,software engineer,"Mount Laurel, NJ",30d+,95K - 143K,software engineer,not specified,,Mount Laurel,NJ,False,False,United States,30,95000.0,143000.0
+january technologies,4.5,software engineer iii,"Fort Collins, CO",12d,,software engineer,senior,,Fort Collins,CO,False,False,United States,12,,
+zebra technologies,4.1,javascript software engineer – analytics ui team,"Indianapolis, IN",4d,,software engineer,not specified,"java, javascript",Indianapolis,IN,False,False,United States,4,,
+credit one bank,3.8,"software engineer, borrower activation",United States,12d,,software engineer,not specified,,United States,,False,False,United States,12,,
+visa,3.8,"devsecops software engineer, ii","Holtsville, NY",30d+,,software engineer,junior,,Holtsville,NY,False,False,United States,30,,
+foot locker,4.6,software engineer i,"Las Vegas, NV",8d,,software engineer,junior,,Las Vegas,NV,False,False,United States,8,,
+legalzoom,3.8,sr. sw engineer,"Bellevue, WA",20d,,other,senior,,Bellevue,WA,False,False,United States,20,,
+"red hat, inc.",2.7,"lead software engineer, integrations (boomi)","Dallas, TX",30d+,,software engineer,leadership,,Dallas,TX,False,False,United States,30,,
+"turn5, inc.",3.5,"senior software engineer, ios","Glendale, CA",10d,,software engineer,senior,,Glendale,CA,False,False,United States,10,,
+university of nebraska medical center,4.5,software integration engineer,"Raleigh, NC",10d,,software engineer,not specified,,Raleigh,NC,False,False,United States,10,,
+michelin,4.0,software developer,"Paoli, PA",15d,,software engineer,not specified,,Paoli,PA,False,False,United States,15,,
+ren global inc.,4.1,software engineer ii,"Omaha, NE",4d,,software engineer,junior,,Omaha,NE,False,False,United States,4,,
+ford motor company,3.1,trainee automation engineer,"Ela, NC",3d,,other,not specified,,Ela,NC,False,False,United States,3,,
+boeing,3.7,sr. software engineer,Remote,8d,,software engineer,senior,,,,True,False,United States,8,,
+disney,3.7,software engineer,"Santa Fe Springs, CA",30d+,,software engineer,not specified,,Santa Fe Springs,CA,False,False,United States,30,,
+super micro computer,3.4,full stack software engineer - mid-level,data not available,2d,,software engineer,mid-level,fullstack,,,False,True,United States,2,,
+ava counsulting,4.2,"software engineer, tools gpu (core)","Emeryville, CA",15d,,software engineer,not specified,,Emeryville,CA,False,False,United States,15,,
+workday,4.0,software engineer - applied ai,"San Jose, CA",30d+,,software engineer,not specified,,San Jose,CA,False,False,United States,30,,
+cubesmart,4.0,automated driving software engineer,"Ann Arbor, MI",13d,,software engineer,not specified,,Ann Arbor,MI,False,False,United States,13,,
+simplisafe,2.9,"software development engineer, devops (us federal)","McLean, VA",6d,,software engineer,not specified,devops,McLean,VA,False,False,United States,6,,
+inspire brands,3.7,senior software engineer,"Malvern, PA",10d,,software engineer,senior,,Malvern,PA,False,False,United States,10,,
+finsync,4.4,"senior software engineer, ml ops","Boston, MA",9d,,software engineer,senior,,Boston,MA,False,False,United States,9,,
+deluxe media,3.5,software engineer,"Atlanta, GA",2d,,software engineer,not specified,,Atlanta,GA,False,False,United States,2,,
+meta,3.7,senior software engineer (ruby),"Kennesaw, GA",1d,,software engineer,senior,,Kennesaw,GA,False,False,United States,1,,
+liquibase,3.8,software engineer,"Burbank, CA",30d+,,software engineer,not specified,,Burbank,CA,False,False,United States,30,,
+afterpay,4.8,"software engineer, gameplay - reality labs","New York, NY",30d+,,software engineer,not specified,,New York,NY,False,False,United States,30,,
+apple,,"site reliability engineer (remote, us-based)","Austin, TX",3d,,other,not specified,,Austin,TX,False,False,United States,3,,
+youtube,,senior software engineer,"Milwaukee, WI",12d,,software engineer,senior,,Milwaukee,WI,False,False,United States,12,,
+kasmo inc,,"aiml - software engineer, information intelligence","Seattle, WA",1d,,software engineer,not specified,,Seattle,WA,False,False,United States,1,,
+systems technology & research inc.,,"software engineer iii, machine learning (recommendations, rankings, and predictions), youtube","Mountain View, CA",3d,,software engineer,senior,,Mountain View,CA,False,False,United States,3,,
+timescale,,plc software engineer,"Detroit, MI",18d,,software engineer,not specified,,Detroit,MI,False,False,United States,18,,
+interimage,,software engineer,United States,30d+,,software engineer,not specified,,United States,,False,False,United States,30,,
+tdi technologies,,senior software engineer - backend - ai projects,Remote,24d,,software engineer,senior,backend,,,True,False,United States,24,,
+abbott laboratories,,2172 software engineer 1,"Fort Meade, MD",18d,,software engineer,junior,,Fort Meade,MD,False,False,United States,18,,
+prove,,database software engineer,Pennsylvania,6d,,software engineer,not specified,,Pennsylvania,,False,False,United States,6,,
+"red hat, inc.",,sr. software engineer – full stack,"Alameda, CA",3d,,software engineer,senior,fullstack,Alameda,CA,False,False,United States,3,,
+coinbase,,platform engineer ii/ software engineer,"Ireland, WV",30d+,,software engineer,junior,,Ireland,WV,False,False,United States,30,,
+home care pulse llc,,gpu/accelerator packaging software engineer,"Boston, MA",30d+,,software engineer,not specified,,Boston,MA,False,False,United States,30,,
+chatsworth products,,"senior software engineer, infrastructure - platform (routing)",Remote,6d,,software engineer,senior,,,,True,False,United States,6,,
+state street,,senior full stack software engineer,"Tampa, FL",24d,,software engineer,senior,fullstack,Tampa,FL,False,False,United States,24,,
+kla corporation,,software engineer,"Round Rock, TX",3d,,software engineer,not specified,,Round Rock,TX,False,False,United States,3,,
+fico,,software application developer - officer (onsite),"Boston, MA",12d,,software engineer,not specified,,Boston,MA,False,False,United States,12,,
+sirius xm,,"software engineer (c++/ood/oop, linux, multi-thread/multi-process)","Milpitas, CA",30d+,,software engineer,not specified,c++,Milpitas,CA,False,False,United States,30,,
+spotify,,senior java engineer,"San Rafael, CA",6d,,other,senior,java,San Rafael,CA,False,False,United States,6,,
+etc,,software engineer iii,"Oakland, CA",30d+,,software engineer,senior,,Oakland,CA,False,False,United States,30,,
+"capsquare systems, inc.",,"android engineer, music","New York, NY",20d,,other,not specified,,New York,NY,False,False,United States,20,,
+mckesson,,software engineer - entertainment controls,"Middleton, WI",30d+,,software engineer,not specified,,Middleton,WI,False,False,United States,30,,
+biomerieux sa,,software engineer,"Troy, MI",12d,,software engineer,not specified,,Troy,MI,False,False,United States,12,,
+"amazon data services, inc.",,senior software engineer,"Irving, TX",30d+,,software engineer,senior,,Irving,TX,False,False,United States,30,,
+darkstar intelligence llc,,software engineer ii - cybersecurity and os configuration,"Salt Lake City, UT",3d,,software engineer,junior,,Salt Lake City,UT,False,False,United States,3,,
+fidelity investments,,"software development engineer, network core-r&d","Seattle, WA",25d,,software engineer,not specified,,Seattle,WA,False,False,United States,25,,
+"10zig technology, inc.",,software engineer,"Annapolis Junction, MD",25d,,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,25,,
+"ekeo group, llc",,senior software engineer in test,"Westlake, TX",4d,,software engineer,senior,,Westlake,TX,False,False,United States,4,,
+axs,,qa automation engineer,"Phoenix, AZ",3d,,qa/test engineer,not specified,,Phoenix,AZ,False,False,United States,3,,
+"red hat, inc.",,software engineer,"Bloomington, MN",13d,,software engineer,not specified,,Bloomington,MN,False,False,United States,13,,
+coupang,,analytics engineer,"Los Angeles, CA",3d,,other,not specified,,Los Angeles,CA,False,False,United States,3,,
+"verve, inc.",,senior software engineer,"Raleigh, NC",3d,,software engineer,senior,,Raleigh,NC,False,False,United States,3,,
+arsiem,,staff software engineer,"Seattle, WA",3d,,software engineer,not specified,,Seattle,WA,False,False,United States,3,,
+freeform,,senior software qa engineer,"Cambridge, MA",3d,,qa/test engineer,senior,,Cambridge,MA,False,False,United States,3,,
+aspen publishing,,568 software engineer 0,"Annapolis Junction, MD",30d+,,software engineer,not specified,,Annapolis Junction,MD,False,False,United States,30,,
+calspan corporation,,software engineer (c++),"Los Angeles, CA",9d,,software engineer,not specified,c++,Los Angeles,CA,False,False,United States,9,,
+northrop grumman,,software engineer,"Burlington, MA",1d,,software engineer,not specified,,Burlington,MA,False,False,United States,1,,
+finish line,,software engineer - wind tunnels & hypersonics,"Saint Paul, MN",30d+,,software engineer,not specified,,Saint Paul,MN,False,False,United States,30,,
+ubs,,software development analyst,"El Segundo, CA",10d,,other,not specified,,El Segundo,CA,False,False,United States,10,,
+paycom,,senior software engineer - enterprise solutions,"Indianapolis, IN",12d,,software engineer,senior,,Indianapolis,IN,False,False,United States,12,,
+oracle,,software engineer/developer,"Raleigh, NC",12d,,software engineer,not specified,,Raleigh,NC,False,False,United States,12,,
+"patriot technology and business partners, inc.",,software developer,"Oklahoma City, OK",30d+,,software engineer,not specified,,Oklahoma City,OK,False,False,United States,30,,
+salesforce,,senior software engineer,United States,1d,,software engineer,senior,,United States,,False,False,United States,1,,
+clarity innovations,,software applications engineer,"Orlando, FL",23d,,software engineer,not specified,,Orlando,FL,False,False,United States,23,,
+adobe,,"senior full stack software engineer, code builder/ide","San Francisco, CA",30d+,,software engineer,senior,fullstack,San Francisco,CA,False,False,United States,30,,
+blue origin,,software engineer (full stack) (qc) tto16-002,United States,8d,,software engineer,not specified,fullstack,United States,,False,False,United States,8,,
+"tru simulation + training, inc.",,senior software engineer,"San Jose, CA",30d+,,software engineer,senior,,San Jose,CA,False,False,United States,30,,
+apple,,aerospace app software engineer ii,"Seattle, WA",27d,,software engineer,junior,,Seattle,WA,False,False,United States,27,,
+cart.com,,"software engineer (aerodynamics) - tru simulation training, inc.","Tampa, FL",2d,,software engineer,not specified,,Tampa,FL,False,False,United States,2,,
+realwork labs,,io software systems test engineer,"San Diego, CA",9d,,qa/test engineer,not specified,,San Diego,CA,False,False,United States,9,,
+disney,,software engineer,Texas,30d+,,software engineer,not specified,,Texas,,False,False,United States,30,,
+megaport,,senior software engineer,"Austin, TX",10d,,software engineer,senior,,Austin,TX,False,False,United States,10,,
+"vision technologies, inc",,staff software engineer,"Celebration, FL",30d,,software engineer,not specified,,Celebration,FL,False,False,United States,30,,
+thermo fisher scientific,,deployment engineer,data not available,2d,,other,not specified,,,,False,True,United States,2,,
+innovative defense technologies (idt),,software engineer iii,United States,12d,,software engineer,senior,,United States,,False,False,United States,12,,
+salesforce,,software quality assurance engineer iii,"Tewksbury, MA",16d,,software engineer,senior,,Tewksbury,MA,False,False,United States,16,,
+atrium health,,software engineer,"Arlington, VA",5d,,software engineer,not specified,,Arlington,VA,False,False,United States,5,,
+boeing,,software engineer - ml infrastructure,"Bellevue, WA",30d+,,software engineer,not specified,,Bellevue,WA,False,False,United States,30,,
+nvidia,,servicenow sr software engineer,"Charlotte, NC",1d,,software engineer,senior,,Charlotte,NC,False,False,United States,1,,
+boeing,,senior full stack software engineer,"Annapolis Junction, MD",3d,,software engineer,senior,fullstack,Annapolis Junction,MD,False,False,United States,3,,
+pacbio,,principal software engineer - full stack,"Santa Clara, CA",2d,,software engineer,leadership,fullstack,Santa Clara,CA,False,False,United States,2,,
+marquis software solutions inc,,software engineer (associate or experienced),"Tukwila, WA",30d+,,software engineer,not specified,,Tukwila,WA,False,False,United States,30,,
+semper valens solutions,,"senior engineer, software, test","Menlo Park, CA",13d,,software engineer,senior,,Menlo Park,CA,False,False,United States,13,,
+"chick-fil-a, inc.",,sr software engineer,"Plano, TX",30d+,,software engineer,senior,,Plano,TX,False,False,United States,30,,
+apple,,software engineer,"Belcamp, MD",11d,,software engineer,not specified,,Belcamp,MD,False,False,United States,11,,
+cvs health,,lead software engineer,"Atlanta, GA",15d,,software engineer,leadership,,Atlanta,GA,False,False,United States,15,,
+alcorn state university,,senior software qa engineer apple sevices engineering.,"Seattle, WA",24h,,qa/test engineer,senior,,Seattle,WA,False,False,United States,24,,
+"amazon web services, inc. - a97",,principal software development engineer,"Hartford, CT",2d,,software engineer,leadership,,Hartford,CT,False,False,United States,2,,
+reevo,,software engineer/instructor,"Lorman, MS",30d+,,software engineer,not specified,,Lorman,MS,False,False,United States,30,,
+teledyne technologies inc.,,"software dev engineer ii, aws applications","Seattle, WA",26d,,software engineer,junior,,Seattle,WA,False,False,United States,26,,
+adobe,,senior software engineer,"Santa Clara, CA",3d,,software engineer,senior,,Santa Clara,CA,False,False,United States,3,,
+honda,,software engineer,"Elgin, IL",30d+,,software engineer,not specified,,Elgin,IL,False,False,United States,30,,
+westchester community college,,software development engineer in test,"San Francisco, CA",30d+,,qa/test engineer,not specified,,San Francisco,CA,False,False,United States,30,,
+dps telecom,,software & system dev. sr. engineer,"Raymond, OH",30d+,,software engineer,senior,,Raymond,OH,False,False,United States,30,,
+roblox,,software engineer ii,"Valhalla, NY",3d,,software engineer,junior,,Valhalla,NY,False,False,United States,3,,
+openai,,embedded software engineer (entry-level),"Lake Hopatcong, NJ",2d,,software engineer,junior,,Lake Hopatcong,NJ,False,False,United States,2,,
+"akina, inc.",,senior software engineer - app orchestration,"San Mateo, CA",30d+,,software engineer,senior,,San Mateo,CA,False,False,United States,30,,
+rxo,,"software engineer, machine learning compute","San Francisco, CA",6d,,software engineer,not specified,,San Francisco,CA,False,False,United States,6,,
+infosys,,software engineer - 3 (apache nifi),"Annapolis Junction, MD",18d,,software engineer,senior,,Annapolis Junction,MD,False,False,United States,18,,
+medtronic,,senior software engineer,"Southfield, MI",19d,,software engineer,senior,,Southfield,MI,False,False,United States,19,,
+data not available,,junior python developer,"Charlotte, NC",2d,,other,junior,python,Charlotte,NC,False,False,United States,2,,
+data not available,,gui software engineer ii - surgical robotics,"Boston, MA",10d,,software engineer,junior,,Boston,MA,False,False,United States,10,,
