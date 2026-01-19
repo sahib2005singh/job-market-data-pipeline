@@ -40,6 +40,9 @@ def pipeline():
             raise ValueError("DATA QUALITY CHECKS FAILED"
                              f" - Nulls in critical columns: {null_critical_columns},"
                              f" Invalid salary entries: {invalid_salary}")
+        if staging_count != jobs_count:
+            raise ValueError("DATA QUALITY CHECKS FAILED"
+                             f" - Row count mismatch: staging_jobs({staging_count}) != jobs({jobs_count})")
         print("DATA QUALITY CHECKS PASSED.")
 
 if __name__ == "__main__":
