@@ -46,6 +46,6 @@ df.columns = [
 engine = create_engine(DB_URL)
 with engine.begin() as conn:
     print("loading data to database...")
-    conn.execute(text("TRUNCATE TABLE jobs RESTART IDENTITY;"))
-    df.to_sql("jobs", conn, if_exists="append", index=False)
-print(f"Inserted {len(df)} rows into jobs table")
+    conn.execute(text("TRUNCATE TABLE staging_jobs;"))
+    df.to_sql("staging_jobs", conn, if_exists="append", index=False)
+print(f"Inserted {len(df)} rows into staging_jobs table")

@@ -1,0 +1,30 @@
+INSERT INTO jobs (
+    job_title,
+    job_family,
+    seniority,
+    specialization,
+    company,
+    company_score,
+    city,
+    state,
+    country,
+    is_remote,
+    salary_min,
+    salary_max,
+    date_since_posted
+)
+SELECT
+    job_title,
+    job_family,
+    seniority,
+    specialization,
+    company,
+    company_score,
+    city,
+    state,
+    country,
+    is_remote,
+    salary_min,
+    salary_max,
+    date_since_posted
+FROM staging_jobs;
