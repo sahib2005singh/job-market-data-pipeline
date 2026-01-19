@@ -24,7 +24,7 @@ SELECT
     state,
     country,
     is_remote,
-    salary_min,
-    salary_max,
+    least(salary_min, salary_max) AS salary_min,
+    greatest(salary_min, salary_max) AS salary_max,
     date_since_posted
 FROM staging_jobs;
