@@ -1,25 +1,22 @@
+import os
+
 import pandas as pd
 from sqlalchemy import create_engine, text
+from pathlib import Path
+import traceback
 
-
-DB_USER = "sahibjotsingh"
-DB_PASSWORD = "postgres"
-DB_HOST = "localhost"
-DB_PORT = "5432"
-DB_NAME = "job_market"
-
-DB_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-CSV_PATH = "/Users/sahibjotsingh/Desktop/job-market-data-pipeline/data/processed/jobs_cleaned.csv"
+BASE_DIR = Path("/opt/airflow")
+CSV_PATH = BASE_DIR / "data" / "processed" / "jobs_cleaned.csv"
 
 def main():
-    print("Reading cleaned data...")
+    print("Reading cleaned data...", flush=True)
     df = pd.read_csv(CSV_PATH)
-    print(f"Rows in CSV: {len(df)}")
+    print(f"Rows in CSV: {len(df)}", flush=True)
 
     df = df[
         [
             "Job Title",
-            "job family",
+            "job_family",
             "seniority",
             "specialization",
             "Company",
@@ -50,24 +47,77 @@ def main():
         "date_since_posted",
     ]
 
-    engine = create_engine(DB_URL)
-
     
-    print("Truncating staging_jobs...")
+    db_url = os.environ.get("JOB_MARKET_DB_URL")
+    print(f"Database URL: {db_url}", flush=True)
+    
+    if not db_url:
+        raise ValueError("JOB_MARKET_DB_URL environment variable not set!")
+    
+    engine = create_engine(db_url)
+
+    # Test connection and check table existence
+    print("Testing database connection...", flush=True)
+    with engine.connect() as conn:
+        # Check if we can connect
+        result = conn.execute(text("SELECT current_database();"))
+        db_name = result.scalar()
+        print(f"Connected to database: {db_name}", flush=True)
+        
+        # Check if staging_jobs table exists
+        result = conn.execute(text("""
+            SELECT EXISTS (
+                SELECT FROM information_schema.tables 
+                WHERE table_schema = 'public' 
+                AND table_name = 'staging_jobs'
+            );
+        """))
+        table_exists = result.scalar()
+        print(f"staging_jobs table exists: {table_exists}", flush=True)
+        
+        if not table_exists:
+            # Create the table
+            print("Creating staging_jobs table...", flush=True)
+            create_table_sql = """
+            CREATE TABLE staging_jobs (
+                job_title VARCHAR(255),
+                job_family VARCHAR(100),
+                seniority VARCHAR(50),
+                specialization VARCHAR(100),
+                company VARCHAR(255),
+                company_score DECIMAL(3,1),
+                city VARCHAR(100),
+                state VARCHAR(100),
+                country VARCHAR(100),
+                is_remote BOOLEAN,
+                salary_min DECIMAL(10,2),
+                salary_max DECIMAL(10,2),
+                date_since_posted VARCHAR(50)
+            );
+            """
+            conn.execute(text(create_table_sql))
+            conn.commit()
+            print("Created staging_jobs table", flush=True)
+
+    print("Truncating staging_jobs...", flush=True)
     with engine.begin() as conn:
         conn.execute(text("TRUNCATE TABLE staging_jobs;"))
 
-    
-    print("Loading data into staging_jobs...")
+    print("Loading data into staging_jobs...", flush=True)
     df.to_sql(
         "staging_jobs",
-        con=engine,
+        engine,
         if_exists="append",
         index=False,
+        chunksize=1000,
         method="multi",
     )
 
-    print(f"Inserted {len(df)} rows into staging_jobs")
+    print(f"Inserted {len(df)} rows into staging_jobs", flush=True)
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f"Error: {e}", flush=True)
+        traceback.print_exc()

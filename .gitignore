@@ -17,3 +17,4 @@ data/processed/
 
 # Notebooks output
 .ipynb_checkpoints/
+.env
