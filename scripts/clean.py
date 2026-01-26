@@ -3,26 +3,20 @@ import re
 from pathlib import Path
 
 def main():
-    # -------------------------------
-    # Base directory (Docker-safe)
-    # -------------------------------
+  
     BASE_DIR = Path("/opt/airflow")
 
     INPUT_PATH = BASE_DIR / "data" / "raw" / "Software Engineer Salaries.csv"
     OUTPUT_PATH = BASE_DIR / "data" / "processed" / "jobs_cleaned.csv"
 
-    # -------------------------------
-    # Load data
-    # -------------------------------
+    
     df = pd.read_csv(INPUT_PATH)
     print(f"Loaded raw data: {len(df)} rows")
 
     df = df.drop_duplicates()
     print(f"After deduplication: {len(df)} rows")
 
-    # -------------------------------
-    # Company cleaning
-    # -------------------------------
+    
     df["Company"] = df["Company"].astype(str)
     df["Company"] = df["Company"].str.replace("nan", "data not available", regex=False)
     df["Company"] = df["Company"].str.lower().str.strip()
@@ -30,9 +24,7 @@ def main():
     df["Company Score"] = pd.to_numeric(df["Company Score"], errors="coerce")
     df["Job Title"] = df["Job Title"].str.lower().str.strip()
 
-    # -------------------------------
-    # Job family
-    # -------------------------------
+    
     def extract_job(title: str) -> str:
         title = title.lower()
 
@@ -59,9 +51,7 @@ def main():
 
     df["job_family"] = df["Job Title"].apply(extract_job)
 
-    # -------------------------------
-    # Seniority
-    # -------------------------------
+   
     def extract_seniority(title: str) -> str:
         title = title.lower()
 
@@ -84,9 +74,7 @@ def main():
 
     df["seniority"] = df["Job Title"].apply(extract_seniority)
 
-    # -------------------------------
-    # Specialization
-    # -------------------------------
+    
     def extract_specialization(title: str):
         title = title.lower()
         specs = set()
@@ -116,9 +104,7 @@ def main():
 
     df["specialization"] = df["Job Title"].apply(extract_specialization)
 
-    # -------------------------------
-    # Location
-    # -------------------------------
+    
     df["Location"] = df["Location"].astype(str).str.strip()
     df[["city", "state"]] = df["Location"].str.split(",", n=1, expand=True)
 
@@ -129,9 +115,7 @@ def main():
     df["state"] = df["state"].str.strip()
     df["country"] = "United States"
 
-    # -------------------------------
-    # Date & salary
-    # -------------------------------
+    
     df["date_since_posted"] = df["Date"].str.extract(r"([0-9]+)")
 
     df["Salary"] = (
@@ -152,15 +136,13 @@ def main():
         lambda x: pd.Series(parse_salary(x))
     )
 
-    # -------------------------------
-    # Save
-    # -------------------------------
+    
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(OUTPUT_PATH, index=False)
 
     print(f"Saved cleaned data to {OUTPUT_PATH}")
 
 
-# REQUIRED for Airflow + local testing
+
 if __name__ == "__main__":
     main()

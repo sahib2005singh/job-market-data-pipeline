@@ -27,7 +27,7 @@ with DAG(
         task_id="load_to_staging",
         bash_command="python -u /opt/airflow/scripts/load_to_staging_db.py",
         env={
-            # ✅ REQUIRED
+            
             "JOB_MARKET_DB_URL": "postgresql+psycopg2://postgres:postgres@postgres:5432/job_market"
         },
     )

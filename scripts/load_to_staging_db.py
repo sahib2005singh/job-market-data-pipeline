@@ -56,7 +56,7 @@ def main():
     
     engine = create_engine(db_url)
 
-    # Test connection and check table existence
+   
     print("Testing database connection...", flush=True)
     with engine.connect() as conn:
         # Check if we can connect
@@ -64,7 +64,7 @@ def main():
         db_name = result.scalar()
         print(f"Connected to database: {db_name}", flush=True)
         
-        # Check if staging_jobs table exists
+        
         result = conn.execute(text("""
             SELECT EXISTS (
                 SELECT FROM information_schema.tables 
@@ -76,7 +76,7 @@ def main():
         print(f"staging_jobs table exists: {table_exists}", flush=True)
         
         if not table_exists:
-            # Create the table
+            
             print("Creating staging_jobs table...", flush=True)
             create_table_sql = """
             CREATE TABLE staging_jobs (
