@@ -26,5 +26,5 @@ SELECT
     is_remote,
     least(salary_min, salary_max) AS salary_min,
     greatest(salary_min, salary_max) AS salary_max,
-    date_since_posted::INTEGER  -- <--- Add the cast here
+    date_since_posted::INTEGER  
 FROM staging_jobs;
