@@ -3,9 +3,9 @@ from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 
 default_args = {
-    "owner": "sahibjotsingh",
+    "owner": "sahibjotsingh", 
     "depends_on_past": False,
-    "retries": 0,
+    "retries": 3,
 }
 
 with DAG(
