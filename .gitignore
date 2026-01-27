@@ -1,20 +1,19 @@
-# Python
+
 venv/
 __pycache__/
 *.pyc
 
-# Airflow
 airflow/
 airflow.db
 
-# Data (never commit)
+
 data/raw/
 data/processed/
 
-# OS / Editor
+
 .DS_Store
 .vscode/
 
-# Notebooks output
+
 .ipynb_checkpoints/
 .env
