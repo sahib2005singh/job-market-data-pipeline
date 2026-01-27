@@ -1,6 +1,8 @@
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
+from airflow.hooks.base import BaseHook
+
 
 default_args = {
     "owner": "sahibjotsingh", 
@@ -28,7 +30,9 @@ with DAG(
         bash_command="python -u /opt/airflow/scripts/load_to_staging_db.py",
         env={
             
-            "JOB_MARKET_DB_URL": "postgresql+psycopg2://postgres:postgres@postgres:5432/job_market"
+             "JOB_MARKET_DB_URL": BaseHook.get_connection(
+            "job_market_postgres"
+        ).get_uri()
         },
     )
 
