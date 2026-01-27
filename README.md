@@ -3,12 +3,12 @@ Job Market Data Pipeline (End-to-End)
 An automated ETL system designed to collect, clean, and store job market data for analytics. This project demonstrates the transition from a manual data script to a production-ready pipeline using industry-standard orchestration.
 🚀 Project Overview
 
-This pipeline solves the problem of fragmented job market data. It automates the collection of job postings, standardizes messy inputs (like varying salary formats), and loads them into a structured PostgreSQL database for analysis.
+This pipeline solves the problem of fragmented job market data. It automates the collection of job postings, standardizes messy inputs, and loads them into a structured PostgreSQL database for analysis.
 Key Capabilities
 
-    Automated ETL: Orchestrated via Apache Airflow to handle data flow and retries.
+    Automated ETL: Orchestrated via Apache Airflow to handle data flow, dependencies, and retries.
 
-    Data Normalization: Converts raw, unstructured job descriptions into clean, queryable SQL tables.
+    Data Normalization: Converts raw, unstructured job descriptions into clean, queryable SQL tables using Pandas.
 
     Containerized Stack: Developed using Docker to ensure consistent environments across development and deployment.
 
@@ -16,13 +16,13 @@ Key Capabilities
 
 🏗️ Architecture
 
-    Ingestion: kaggle dataset.
+    Ingestion: Automated ingestion of job posting datasets (Kaggle).
 
-    Processing: Data cleaning and normalization using Pandas .
+    Processing: Data cleaning and normalization (handling nulls, salary parsing) using Pandas.
 
-    Storage: Relational storage in PostgreSQL .
+    Storage: Relational storage in PostgreSQL.
 
-    Orchestration: Airflow DAGs manage the schedule and task dependencies.
+    Orchestration: Airflow DAGs manage the schedule, task dependencies, and workflow monitoring.
 
 🛠️ Tech Stack
 
@@ -35,64 +35,63 @@ Key Capabilities
     Tools: Docker, Git
 
 📂 Project Structure
+Plaintext
 
-    /dags: Airflow DAG definitions for pipeline scheduling.
-
-    /scripts: Python modules for data extraction and transformation logic.
-
-    /sql: Database schema definitions and setup scripts.
-
-    docker-compose.yml: Configuration for the Airflow and Postgres environment.
-
-🚀 Getting Started
-
-    Clone the repo:
-    Bash
-
-    git clone https://github.com/yourusername/job-data-pipeline.git
-    cd job-data-pipeline
-
-    Initialize Environment:
-    Bash
-
-    docker-compose up -d
-
-
-    Run Pipeline: Access the Airflow UI at localhost:8080(Username: admin Password: admin) and trigger the job_market_pipeline_dag DAG.
-    
-
-🗂 Project Structure
 job-market-data-pipeline/
 │
 ├── dags/
-│   └── job_market_pipeline.py
+│   └── job_market_pipeline.py      # Airflow DAG definition
 │
 ├── scripts/
-│   ├── clean.py
-│   ├── load_to_staging_db.py
-│   └── transform.py
+│   ├── clean.py                    # Data cleaning logic
+│   ├── load_to_staging_db.py       # SQL Loading scripts
+│   └── transform.py                # Business logic & normalization
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   ├── raw/                        # Original Kaggle datasets
+│   └── processed/                  # Cleaned CSVs prior to SQL load
 │
-├── docker-compose.yml
+├── docker-compose.yml              # Airflow & Postgres services
 └── README.md
 
-What This Project Demonstrates
+🚦 Getting Started
+1. Clone the repo
+Bash
 
-Designing reliable ETL pipelines
+git clone https://github.com/sahib2005singh/job-data-pipeline.git
+cd job-data-pipeline
 
-Using Airflow beyond basic DAGs
+2. Initialize Environment
 
-Applying real-world data engineering practices
+Ensure you have Docker installed, then run:
+Bash
 
-Writing Docker-portable data workflows
+docker-compose up -d
 
+3. Run Pipeline
+
+    Access the Airflow UI at http://localhost:8080.
+
+    Credentials: * Username: admin
+
+        Password: admin
+
+    Locate and trigger the job_market_pipeline_dag.
+
+✅ What This Project Demonstrates
+
+    Pipeline Reliability: Designing fault-tolerant ETL workflows.
+
+    Orchestration: Using Airflow for complex task scheduling beyond simple scripts.
+
+    Data Engineering Best Practices: Modular code structure and environment isolation.
+
+    Portability: Writing Docker-portable workflows that run anywhere.
 
 👤 Author
 
-Sahibjot Singh
-Computer Science Undergraduate | Aspiring Data Engineer
-GitHub: github.com/sahib2005singh
+Sahibjot Singh Computer Science Undergraduate | Aspiring Data Engineer
 
+    GitHub: github.com/sahib2005singh
+
+    LinkedIn: https://www.linkedin.com/in/sahibjot-singh-4a10ab27b/
